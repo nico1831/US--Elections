@@ -1,4 +1,0 @@
-category,term_id,min_coverage,min_sd,min_max,n_years,drop_reason,included
-C1_logistics,polling_place,0,,,1,K4: missing year(s),False
-C1_logistics,register_to_vote,0,,,1,K4: missing year(s),False
-C1_logistics,where_to_vote,0,,,1,K4: missing year(s),False

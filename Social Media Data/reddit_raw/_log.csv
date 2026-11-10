@@ -1,0 +1,205 @@
+state,year,posts,calls,error
+Arizona,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=arizona&after=2012-08-08&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arkansas,2012,185.0,3.0,
+Alabama,2012,118.0,3.0,
+Alaska,2012,276.0,4.0,
+Colorado,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Colorado&after=1346177490&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Delaware,2012,173.0,3.0,
+California,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=California&after=1351963453&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+District of Columbia,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=washingtondc&after=1345659465&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Georgia,2012,68.0,2.0,
+Florida,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=florida&after=1350002503&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Connecticut,2012,633.0,8.0,
+Idaho,2012,25.0,2.0,
+Illinois,2012,83.0,2.0,
+Kansas,2012,65.0,2.0,
+Indiana,2012,166.0,3.0,
+Iowa,2012,181.0,3.0,
+Hawaii,2012,575.0,7.0,
+Louisiana,2012,184.0,3.0,
+Kentucky,2012,120.0,3.0,
+Maryland,2012,265.0,4.0,
+Massachusetts,2012,116.0,3.0,
+Maine,2012,562.0,7.0,
+Mississippi,2012,67.0,2.0,
+Missouri,2012,80.0,2.0,
+Michigan,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Michigan&after=1351686703&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Montana,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Montana&after=1352155848&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Nebraska,2012,91.0,2.0,
+Nevada,2012,15.0,2.0,
+Minnesota,2012,487.0,6.0,
+New Mexico,2012,80.0,2.0,
+New Hampshire,2012,293.0,4.0,
+New Jersey,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newjersey&after=1345698516&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Dakota,2012,98.0,2.0,
+New York,2012,213.0,4.0,
+North Carolina,2012,160.0,3.0,
+Ohio,2012,321.0,5.0,
+Pennsylvania,2012,141.0,3.0,
+Oregon,2012,226.0,4.0,
+Oklahoma,2012,440.0,6.0,
+South Dakota,2012,54.0,2.0,
+South Carolina,2012,149.0,3.0,
+Rhode Island,2012,120.0,3.0,
+Tennessee,2012,70.0,2.0,
+Utah,2012,68.0,2.0,
+Virginia,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Virginia&after=1352131755&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Vermont,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=vermont&after=1349275220&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Washington,2012,154.0,3.0,
+West Virginia,2012,103.0,3.0,
+Wyoming,2012,56.0,2.0,
+Texas,2012,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=texas&after=1350615980&before=2012-11-06&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Alaska,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=alaska&after=1474859956&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Alabama,2016,400.0,5.0,
+Wisconsin,2012,688.0,8.0,
+California,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=California&after=1471366989&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Colorado,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Colorado&after=1472067699&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Connecticut,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Connecticut&after=1471580204&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arkansas,2016,261.0,4.0,
+Arizona,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=arizona&after=1477175187&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Florida,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=florida&after=2016-08-10&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Hawaii,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Hawaii&after=2016-08-10&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Idaho,2016,122.0,3.0,
+District of Columbia,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=washingtondc&after=1471734214&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Georgia,2016,348.0,5.0,
+Delaware,2016,574.0,7.0,
+Illinois,2016,201.0,4.0,
+Indiana,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Indiana&after=1478273865&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Kansas,2016,286.0,4.0,
+Kentucky,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Kentucky&after=1478554406&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Iowa,2016,392.0,5.0,
+Louisiana,2016,472.0,6.0,
+Massachusetts,2016,390.0,5.0,
+Minnesota,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=minnesota&after=2016-08-10&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Mississippi,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=mississippi&after=1476291174&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Maine,2016,856.0,10.0,
+Maryland,2016,827.0,10.0,
+Missouri,2016,188.0,3.0,
+Nebraska,2016,83.0,2.0,
+Montana,2016,217.0,4.0,
+New Hampshire,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newhampshire&after=1474693986&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Nevada,2016,126.0,3.0,
+Michigan,2016,985.0,11.0,
+New York,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newyork&after=1474179293&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Mexico,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NewMexico&after=1477713220&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Dakota,2016,184.0,3.0,
+New Jersey,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newjersey&after=1475340576&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Ohio,2016,578.0,7.0,
+Pennsylvania,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Pennsylvania&after=2016-08-10&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Carolina,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NorthCarolina&after=1476709083&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Oklahoma,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oklahoma&after=1477374128&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Dakota,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=SouthDakota&after=2016-08-10&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Oregon,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oregon&after=1473733349&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Rhode Island,2016,244.0,4.0,
+Texas,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=texas&after=1471555494&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Carolina,2016,275.0,4.0,
+Tennessee,2016,221.0,4.0,
+Utah,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Utah&after=1478560575&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Virginia,2016,347.0,5.0,
+Vermont,2016,499.0,6.0,
+West Virginia,2016,173.0,3.0,
+Alabama,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=alabama&after=1597277261&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Washington,2016,399.0,5.0,
+Wyoming,2016,135.0,3.0,
+Wisconsin,2016,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=wisconsin&after=1473353394&before=2016-11-08&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arizona,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=arizona&after=1597819152&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Colorado,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Colorado&after=1597789593&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+California,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=California&after=1598273546&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Connecticut,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Connecticut&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+District of Columbia,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=washingtondc&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Alaska,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=alaska&after=1602545099&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Florida,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=florida&after=1597362719&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arkansas,2020,1446.0,16.0,
+Hawaii,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Hawaii&after=1597540165&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Georgia,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Georgia&after=1600864583&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Indiana,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Indiana&after=1597102796&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Delaware,2020,1116.0,13.0,
+Idaho,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Idaho&after=1602379843&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Kansas,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=kansas&after=1598699518&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Kentucky,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Kentucky&after=1598746010&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Maine,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Maine&after=1597164250&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Louisiana,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Louisiana&after=1599580690&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Maryland,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=maryland&after=1596737301&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Illinois,2020,1026.0,12.0,
+Massachusetts,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=massachusetts&after=1597843470&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Michigan,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Michigan&after=1597521550&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Iowa,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Iowa&after=1602028850&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Mississippi,2020,840.0,10.0,
+Minnesota,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=minnesota&after=1599772755&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Missouri,2020,1003.0,12.0,
+New Hampshire,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newhampshire&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Jersey,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newjersey&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Nebraska,2020,648.0,8.0,
+Montana,2020,1034.0,12.0,
+Nevada,2020,464.0,6.0,
+North Carolina,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NorthCarolina&after=1596882044&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New York,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newyork&after=1597686872&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Oklahoma,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oklahoma&after=1597419769&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Mexico,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NewMexico&after=1602210167&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Dakota,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=northdakota&after=1604325233&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Rhode Island,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=RhodeIsland&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Oregon,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oregon&after=1597534449&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Dakota,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=SouthDakota&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Tennessee,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Tennessee&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Pennsylvania,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Pennsylvania&after=1598291815&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Texas,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=texas&after=1597125120&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Utah,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Utah&after=1599266262&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Carolina,2020,1061.0,12.0,
+Ohio,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Ohio&after=1602111555&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Vermont,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=vermont&after=1600397887&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Virginia,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Virginia&after=1599143222&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+West Virginia,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=WestVirginia&after=2020-08-05&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Wisconsin,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=wisconsin&after=1597108454&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Alabama,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=alabama&after=1724614565&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Washington,2020,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Washington&after=1598070245&before=2020-11-03&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Alaska,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=alaska&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+California,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=California&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arkansas,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=arkansas&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Colorado,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Colorado&after=1724720772&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Connecticut,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Connecticut&after=1723570730&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Wyoming,2020,554.0,7.0,
+District of Columbia,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=washingtondc&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Arizona,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=arizona&after=1724449574&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Delaware,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Delaware&after=1723439377&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Georgia,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Georgia&after=1723425208&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Idaho,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Idaho&after=1725825503&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Illinois,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=illinois&after=1725053967&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Hawaii,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Hawaii&after=1724904353&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Indiana,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Indiana&after=1723656489&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Kansas,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=kansas&after=1726763539&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Florida,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=florida&after=1724546496&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Iowa,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Iowa&after=1725112294&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Louisiana,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Louisiana&after=1724932528&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Kentucky,2024,1075.0,12.0,
+Michigan,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Michigan&after=1723936210&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Maine,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Maine&after=1725491901&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Massachusetts,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=massachusetts&after=1724473539&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Mississippi,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=mississippi&after=1723774260&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Maryland,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=maryland&after=1725410207&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Nebraska,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Nebraska&after=1723813557&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Nevada,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Nevada&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Montana,2024,1153.0,13.0,
+Minnesota,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=minnesota&after=1725216049&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Missouri,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=missouri&after=1729625561&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New York,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newyork&after=1724076876&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Jersey,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=newjersey&after=1724767912&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Dakota,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=northdakota&after=1724675802&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Mexico,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NewMexico&after=1729780507&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Oklahoma,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oklahoma&after=2024-08-07&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+North Carolina,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=NorthCarolina&after=1724930623&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+New Hampshire,2024,2852.0,30.0,
+Oregon,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=oregon&after=1723254006&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Pennsylvania,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Pennsylvania&after=1723690402&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Rhode Island,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=RhodeIsland&after=1723550833&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Dakota,2024,552.0,7.0,
+Tennessee,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Tennessee&after=1727729512&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Texas,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=texas&after=1723134107&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Ohio,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Ohio&after=1725994245&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+South Carolina,2024,1616.0,18.0,
+Washington,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Washington&after=1724108604&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Vermont,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=vermont&after=1727743245&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Wisconsin,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=wisconsin&after=1723343483&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+West Virginia,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=WestVirginia&after=1727189396&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Wyoming,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=wyoming&after=1726281866&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Virginia,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Virginia&after=1728620381&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments
+Utah,2024,,,422 Client Error: Unprocessable Entity for url: https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Utah&after=1729828670&before=2024-11-05&sort=asc&limit=100&fields=id%2Ccreated_utc%2Ctitle%2Cselftext%2Cscore%2Cnum_comments

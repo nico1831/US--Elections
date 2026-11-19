@@ -15,7 +15,7 @@ HERE = Path(__file__).resolve().parent      # the "Social Media Data" folder
 RAW  = HERE / "reddit_raw"                  # 204 scraped CSVs (+ _authors.csv later)
 OUT  = HERE / "phase1"                      # everything Phase 1 writes goes here
 
-KW_VERSION = "v1 (2026-11-19)"
+KW_VERSION = "v2 (2026-11-19)"
 
 # General election words, built from the four Trends groups
 #   friction: how/where to vote, polling place, sample ballot, voter id
@@ -25,6 +25,24 @@ GENERAL = (r"\b(?:vote|votes|voted|voting|voters?|ballots?|elections?|electoral 
            r"|polling (?:place|location|station)s?|absentee|early voting|mail-in"
            r"|vote by mail|register(?:ed)? to vote|voter registration|voter id"
            r"|(?:ballot )?drop box(?:es)?|sample ballot|presidential debate)\b")
+
+# v2 additions (from round 1 misses): named races, campaign ads/signs, ballot measures,
+# running for office, party nominees, write-ins, swing states, Spanish "voté"
+GENERAL_V2 = (
+    r"\b(?:senate|governor'?s?|gubernatorial|congressional|house|mayoral|mayor'?s|council"
+    r"|presidential|sheriff'?s?|judicial|state (?:senate|house)|attorney general'?s?|legislative)"
+    r" (?:race|contest)s?\b"
+    r"|\b(?:campaign|political|attack|election) (?:ads?|adds|advertisements?|commercials?|mailers?|signs?)\b"
+    r"|\b(?:amendment|proposition|prop|question|measure|issue|initiative) \d{1,3}[a-z]?\b"
+    r"|\bballot (?:measure|initiative|question)s?\b|\breferend(?:um|a)\b"
+    r"|\b(?:amendment|ballot|voter) guides?\b"
+    r"|\b(?:running|ran|runs|run) for (?:governor|congress|senate|mayor|office|president"
+    r"|re-?election|city council|the (?:state )?(?:house|senate|legislature)|sheriff|judge|school board)\b"
+    r"|\bre-?election\b"
+    r"|\b(?:democratic|republican|gop|libertarian|green party) (?:nominee|candidate|challenger|incumbent)s?\b"
+    r"|\bwrite[- ]in\b|\bvoté\b|\bswing states?\b"
+)
+GENERAL = GENERAL + "|" + GENERAL_V2
 
 # Candidate group: nominees + running mates, per cycle (mirrors candidate_v2_index)
 CANDS = {2012: r"\b(?:obama|romney|paul ryan|biden)\b",
@@ -67,7 +85,8 @@ def tag(df):
        route            : first group that matched: general > cand_only > trial_only > none
        elec             : counted as an election post under the current settings"""
     df = df.copy()
-    df["clean"] = df.text.str.lower().str.replace(EXCL, " ", regex=True)
+    df["clean"] = (df.text.str.lower().str.replace("\u2019", "'", regex=False)
+                     .str.replace(EXCL, " ", regex=True))
     df["gen"]   = df.clean.str.contains(GENERAL, regex=True)
     df["trial"] = df.clean.str.contains(TRIAL, regex=True)
     df["cand"]  = [bool(re.search(p, t)) for p, t in zip(df.year.map(CANDS), df.clean)]

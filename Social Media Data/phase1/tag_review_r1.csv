@@ -1,0 +1,32 @@
+﻿row,problem,year,route,kind,snippet,note
+10,false positive,2020,cand_only,tagged,"Whitmer's job approval beats Trump's job approval in Michigan, poll finds","approval poll, not a vote poll (Whitmer not on ballot)"
+13,false positive,2016,trial_only,tagged,Bill Opening Wilderness Areas to Bikes Also Opens Debate,
+23,false positive,2020,trial_only,tagged,Settle this neighborhood (to live in) debate for us. West End vs. Navy Yard?,
+50,false positive,2020,cand_only,tagged,"Trump declares Oregon emergency, federal relief might be package deal for Western states",
+87,false positive,2024,trial_only,tagged,Justice appoints Republican candidate for 98th HD to replace Espinosa,"governor appoints a House candidate to a vacant seat; appointment, not the election"
+90,false positive,2012,trial_only,tagged,Does anyone know of any Debate Teams/Clubs that meet in NJ?  I used to be on my college's debate team and I'm missing it now that I've graduated...does anyone know of any debate me...,
+117,false positive,2016,general,tagged,"These Louisiana politicians are demanding flood aid, but voted against Sandy relief",politicians' past votes on flood aid; not an election
+136,false positive,2016,general,tagged,"...ees are being resettled in the small town of Stone Mountain, GA than in NYC and LA COMBINED. Dems accused of conducting demographic warfare to change voter profile of Republican states.",immigration post claiming it changes the voter profile
+7,missed,2012,none,untagged_political,Sen. Nelson retains edge on Rep. Mack in Florida Senate race - The Hill's Blog Briefing Room,
+14,missed,2024,none,untagged_political,The Indiana governor’s race appears to be a barn burner,
+15,missed,2024,none,untagged_random,2A rights.  I love how the blue likes to restrict the 2A rights but they love the run thier mouths when it comes to non constitutional laws.,
+17,missed,2024,none,untagged_random,"Most beautiful camping spot in the state. Flagstaff, AZ",
+21,missed,2024,none,untagged_political,Arizona governor urge far reich wing Newscum to rethink his oil refiner proposal while Nevada governor praises their California counterpart and Newscum calls the Ariz...,
+25,missed,2020,none,untagged_political,"First campaign ad released by Cindy Hyde-Smith campaign uses footage of Russian, Canadian models, but no actual Mississippians",
+31,missed,2016,none,untagged_political,"Republican watch party location? Hey I'm a student at Arkansas Tech University, and I was told that I need to go to a Republican watch party in North West Arkan...",
+37,missed,2020,none,untagged_political,Sixteen political ads today alone,
+38,missed,2024,none,untagged_random,Yo Voté #602 today. Excellent turnout.,
+40,missed,2024,none,untagged_political,Can someone explain Amendment 2 for me?,
+45,missed,2020,none,untagged_random,"I know laws don't apply to Republicans... ...but are we going to do anything about the obvious violation of the Hatch Act in Jim Jordan's campaign ads?  I can't find the ad online, but it ...",
+51,missed,2020,none,untagged_political,Missouri Democrat running for governor unveils health agenda,
+60,missed,2020,none,untagged_political,Democrats have Republicans on the defensive in traditionally safe Milwaukee suburbs,
+76,missed,2016,none,untagged_political,"AMA: Rob Keesler, Republican for Wilmington city council at-large",
+82,missed,2020,none,untagged_random,Ya’ll checkin the yay box on 65 right?,
+97,missed,2020,none,untagged_political,"As Governor Resists Mask Mandate, Iowans Sour on the G.O.P.",governor mask policy; framed as voters souring on GOP
+105,missed,2024,none,untagged_political,Emperor Palpatine (aka Deb Fischer) Bless all these political adds but every time the pro Deb Fisher ads come on it’s like emperor Palpatine as a woman and it’s soo creepy.,
+115,missed,2024,none,untagged_political,"I thought churches weren’t supposed to be politically active because of that whole “we don’t pay taxes thing.” Anyway, I hope some of the idiots in my neighborhood write in Jesus Christ for president.",
+147,missed,2020,none,untagged_political,"Danielle the Anchorage mom   After the 100th time I’ve seen her political commercial, I still don’t know why I should put any credence in what she says. Does being a mom give her special insight?  Would a Palmer farmer, or ...",
+148,missed,2024,none,untagged_political,MAGA Congressman’s Wife Accuses Him of Being on Drugs,scandal about a congressman; election not mentioned
+162,missed,2024,none,untagged_political,"Eilers & Krejcik Gaming Amendment 2 Report So far, I've been conflicted about Amendment 2. I know some have said it will bring little no money to schools as claimed. I came across a r...",
+163,missed,2024,none,untagged_political,2024 Florida Amendment Guide! Just passing it along! 🫡,
+176,missed,2016,none,untagged_political,It's Jason Lewis vs. Angie Craig in what’s likely to be one of the most-watched congressional races in the country,

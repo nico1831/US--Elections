@@ -1,0 +1,18 @@
+﻿row,problem,year,route,kind,snippet,note
+1,false positive,2020,cand_only,tagged,Let's tell the truth about the pandemic: Donald Trump is guilty of mass murder,criticism of Trump's pandemic handling as president; no election angle
+15,false positive,2012,cand_only,tagged,Bridgeport Firefighter assaults Obama supporter,assault on an Obama supporter; crime story with a campaign link (like round 1 row 187)
+26,false positive,2016,general,tagged,Turning the tide: Can a Wisconsin Democrat win the 2018 election for governor?,"about the 2018 governor race, not an election in this window"
+61,false positive,2024,general,tagged,Which decision was worse? The FBI Director James Comey's decision to publicly announce that he was reopening The Hillary Clinton Email Investigation 11 days before the 2016 Presidential Election or The Supreme Court's decision to stop The Florida Recount in the 2000 Ele...,"about the 2000 and 2016 elections, not this one"
+66,false positive,2020,general,tagged,"...eel free to pass along
+
+https://mashable.com/article/how-to-help-united-states-postal-office/
+
+
+
+1. Message your Representatives
+
+Contact your state (governor, state representatives) and federal (house representative, senators) and let them know how you feel. The messages do not need to be lengthy, they sim...",save the USPS; mail voting not mentioned
+88,false positive,2020,cand_only,tagged,Donald Trump has tested positive for Covid-19,"Trump tests positive (news about him in office, not the election)"
+90,false positive,2020,general,tagged,"A narratively re-balanced, fully contextualized, and backstory-enhanced second Act, following this morning's much down-voted debut! Come get your Alaskan folklore in realtime! [Details in the comments!☝️]",
+91,false positive,2016,cand_only,tagged,"Time for a Ted Cruz reboot, as poll shows Republicans down on him since his snub of Trump",favourability poll of Cruz (not on the 2016 ballot); approval-type poll like round 1 row 10
+94,false positive,2016,general,tagged,Alaskan village votes to relocate over global warming,"village votes to relocate; a local vote, not part of the general election"

@@ -1,0 +1,25 @@
+ROUND 1  |  keyword list v1 (2026-11-19)  |  200 labeled posts
+
+PRECISION (share of tagged posts that really are election posts)
+  route cand_only    90.0%  [70% to 97%]  n=20
+  route general      96.7%  [89% to 99%]  n=60
+  route trial_only   80.0%  [58% to 92%]  n=20
+  year  2012        100.0%  [84% to 100%]  n=20
+  year  2016         90.0%  [70% to 97%]  n=20
+  year  2020         90.0%  [70% to 97%]  n=20
+  year  2024        100.0%  [84% to 100%]  n=20
+
+MISS RATE (share of random untagged posts that are election posts)
+  untagged random     10.0%  [4% to 21%]  n=50
+  untagged political  36.0%  [24% to 50%]  n=50  (keyword hunting only)
+
+WEIGHTED by real bucket sizes, 95% bootstrap interval
+  general + cand_only + trial_only   precision  95.3% [92% to 99%]   recall  59.1% [44% to 88%]
+  general + cand_only                precision  96.2% [93% to 100%]   recall  56.2% [41% to 83%]
+  general                            precision  98.8% [97% to 100%]   recall  41.8% [30% to 62%]
+
+GATES
+  [PASS] weighted precision with current settings 95.3% (target 85%)
+  [PASS] cand_only precision 90% (target 80%)
+  [PASS] trial_only precision 80% (target 70%)
+  [CHECK] miss rate 10.0% (target 3% or less)

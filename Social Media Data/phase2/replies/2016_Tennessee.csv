@@ -1,0 +1,407 @@
+id,post_id,parent_id,top_level,created_utc,body,removed,score,user_hash,author_status,state,year,subreddit
+d6tk1id,4z7liy,t3_4z7liy,True,1471976101,">Politico said McMullin’s campaign collected 129 of the 275 signatures required to appear on Tennessee’s ballot. 
+
+That seems like a really low threshold. Not really a good sign if you can't even get that many signatures in the whole state.",False,4,554d93edbad00f79,ok,Tennessee,2016,Tennessee
+d6tygau,4z7liy,t3_4z7liy,True,1471994828,Who?,False,5,2890bc12bc4b9a77,ok,Tennessee,2016,Tennessee
+d728d1l,50941x,t3_50941x,True,1472531961,"HAHA. Please vote him out, 3rd district...!",False,5,47ff7f83448b2e8d,ok,Tennessee,2016,Tennessee
+d72flm1,50941x,t1_d728d1l,False,1472553987,"Man, I wish.",False,3,fdc4dcbae9b9b16d,ok,Tennessee,2016,Tennessee
+d72xwby,50941x,t3_50941x,True,1472582681,Someone xpost this to r/dontdeadopeninside,False,2,339abebafdf3b86c,ok,Tennessee,2016,Tennessee
+d72hzxy,50aktb,t3_50aktb,True,1472560235,"Link because it's already buried.
+
+https://www.reddit.com/r/unbiasedpolitics/comments/507za4/runbiasedpolitics_presidential_poll_please/
+
+FYI, in future shares, it's worthwhile to share the actual link to the thread, or at least have it stickied on the sub.  I'd just as well leave if I didn't see it on the first page of results(was on second page).",False,1,806a91ec8200f54e,ok,Tennessee,2016,Tennessee
+d7lpr3z,52lufq,t3_52lufq,True,1473809755,Good riddance. ,False,2,94a3d813c8c4d726,ok,Tennessee,2016,Tennessee
+d7lqrgk,52lufq,t3_52lufq,True,1473811201,Go on git ,False,5,4cc9cbf51b1cf818,ok,Tennessee,2016,Tennessee
+d7lv9rn,52lufq,t3_52lufq,True,1473817941,"Not surprised one bit that Rep. Rick Womick was one of the ones railing against his expulsion. And he didn't even stick around for the vote. Good riddance in November, Rick!",False,3,47ff7f83448b2e8d,ok,Tennessee,2016,Tennessee
+d7sg2cr,53es1p,t3_53es1p,True,1474241681,Alyson Kennedy is on the Tennessee ballot. ,False,1,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d7sivri,53es1p,t3_53es1p,True,1474246003,"Some critiques.
+
+Don't ask two questions. For example:
+
+> Do you have a favorable or unfavorable opinion of Wikileaks? Is it favorable/unfavorable strongly or somewhat? 
+
+That should read something to the effect of, ""what is your opinion of the organization Wikileaks?"" Then the answer choices.
+
+There should be a neutral option in the middle of the favorability questions. Not having a neutral option, but also giving a ""no opinion"" option groups those two answers together, and will force some otherwise neutral respondents to make a more hardline stance on an issues. A neutral option should be placed in the middle of the scaling answers.
+
+There's also no reason to have an ""other"" option for favorability questions. People either have a positive/negative opinion, or they don't hold one at all. ""Other"" is not a good way to encapsulate any relevant view on an opinion question like the ones here.
+
+If you are only giving 5 options, don't use ""somewhat"" and ""strongly."" Use approve/disapprove, and strongly approve/disapprove. You're forcing people to either sort of agree, or go in whole hog. When, in reality, most people usually fall somewhere between those two. 
+
+Also, the order of the answer choices should go from one extreme to the other. The answer choices (using your answers) should be:
+
+ * Strongly agree
+ * somewhat agree
+ * somewhat disagree
+ * strongly disagree
+ * Other
+ * no opinion
+
+Right now, they are:
+
+ * strongly agree
+ * somewhat agree
+ * Strongly disagree
+ * somewhat disagree
+ * Other
+ * no opinion
+
+
+In the question, don't ask if someone approves or disapproves. Just ask what they think about X. You don't want to presuppose an answer in the question.
+
+
+Also, these questions are too random. I understand trying not to bias the answers by putting them all in the same order, but similar questions should be asked in the same 4 or 5 question clump. 
+
+Edit: Also, the Quran question feels like baiting, and really turns me off from this entire thing. That's a complex question, and a survey like this is **not** the type of research that should be conducted to try and gather any sort of answer.",False,14,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d7smidn,53es1p,t3_53es1p,True,1474251446,[deleted],True,-1,,deleted,Tennessee,2016,Tennessee
+d7snobe,53es1p,t3_53es1p,True,1474253175,No.,False,-1,e8ef2ece40caac82,ok,Tennessee,2016,Tennessee
+d7spdau,53es1p,t3_53es1p,True,1474255666,Darrell Castle,False,3,5378bf2c1e68c803,ok,Tennessee,2016,Tennessee
+d7ssp3e,53es1p,t3_53es1p,True,1474261919,"The order of the choices tripped me up every damn time, and the questions were a slog to parse. The Quran question was also unanswerable for me because of the reasons mentioned above.",False,2,d9a456b7d67029bb,ok,Tennessee,2016,Tennessee
+d7t34nr,53es1p,t3_53es1p,True,1474291721,"Um, no - Hillary can go do her own paid research.",False,-1,abd924debdeb7efb,ok,Tennessee,2016,Tennessee
+d7t4eji,53es1p,t3_53es1p,True,1474293782,This is just terrible.,False,4,982eacebfe7366f0,ok,Tennessee,2016,Tennessee
+d7t4mcs,53es1p,t1_d7sivri,False,1474294107,"Yeah, the Quran thing was pretty lame. I `cmd-w`'d out at that point. If it were immediately followed up by the same question, but Quran was replaced with _Every Holy Book Ever_, then it would still seem absurd, but at least the point of the questions would be a little more clear. ",False,1,d7a43d143d7df9f5,ok,Tennessee,2016,Tennessee
+d7t4sfq,53es1p,t1_d7t34nr,False,1474294358,I doubt this 18-year old is doing research for Hillary. Especially when the questions are already this slanted towards conservative talking points. ,False,3,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d7t535d,53es1p,t1_d7t4sfq,False,1474294786,Read through his post history - it's clear he's not a Trump nor Bernie fan. ,False,-1,abd924debdeb7efb,ok,Tennessee,2016,Tennessee
+d7t5sp1,53es1p,t1_d7t535d,False,1474295789,"If you'd looked through their history better, you would have seen that this is likely a woman, not a man. Regardless, it doesn't make any sense for  a liberal to be taking on these conservative talking points and not bringing up their own. ",False,1,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d7t6eso,53es1p,t3_53es1p,True,1474296638,"Can we have a vote of No Confidence?
+
+That would acurately represent my feelings. ",False,1,e72e4b5bd4dab406,ok,Tennessee,2016,Tennessee
+d7t6yg4,53es1p,t1_d7t5sp1,False,1474297367,"Regardless, the appearance of a neutral bias by the author under the guise of an opinion poll - one that has been spammed in multiple subreddits - and factored in comment history is enough for me to disregard the intent and the results in its entirety.  ",False,1,abd924debdeb7efb,ok,Tennessee,2016,Tennessee
+d7t815e,53es1p,t1_d7t535d,False,1474298766,"except he called Trump ""fucking amazing""",False,1,9851cf4a13b35443,ok,Tennessee,2016,Tennessee
+d7t8b05,53es1p,t1_d7t6yg4,False,1474299115,"> enough for me to disregard the intent and the results in its entirety. 
+
+I agree that the intent is probably bs. Either to ""confirm"" their own narrative, or for some class. Point being, it has nothing to do with Hillary. You know, the thing I was arguing with you about in the first place.",False,3,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d7t926c,53es1p,t3_53es1p,True,1474300057,"Holy loaded questions batman!!!
+
+This ""poll's"" bias in the questions are obvious ",False,3,6e02e788ce6274a7,ok,Tennessee,2016,Tennessee
+d7tadpw,53es1p,t3_53es1p,True,1474301673,"Did a little analysis of my own... OP has submitted this opinion poll to 34 subreddits, and it's a mix of (intentional?) selection bias and just plain odd choices. Here's the list (broken into categories):
+
+State subreddits (21):
+
+Safe/Lean Republican (10):
+r/Arkansas
+r/Arizona
+r/Indiana
+r/Louisiana
+r/Missouri
+r/Oklahoma
+r/SouthCarolina
+r/Tennessee
+r/Utah
+r/WestVirginia
+
+Safe/Lean Democrat (6):
+r/Connecticut
+r/Maine
+r/Massachusetts
+r/Minnesota
+r/NewJersey
+r/Oregon
+
+Swing states (5):
+r/Colorado
+r/Nevada
+r/NewHampshire
+r/NorthCarolina
+r/Wisconsin
+
+City subreddits (7):
+r/Boston
+r/Cleveland
+r/Columbus
+r/Eugene
+r/NewOrleans
+r/NYC
+r/Portland
+
+General Politics subreddits (4):
+r/AmericanPolitics
+r/economy
+r/uspolitics
+r/worldpolitics
+
+Specifically conservative subreddits (1):
+r/Conservative
+
+???? (1):
+r/Blackladies
+",False,1,77b52deca6dd2364,ok,Tennessee,2016,Tennessee
+d7tnby7,53es1p,t3_53es1p,True,1474317643,It'd be nice if you had trade school under education.,False,1,807fd4f722b40101,ok,Tennessee,2016,Tennessee
+d7xx6kc,53yzhx,t3_53yzhx,True,1474574956,Someone is scared that they won't have a semi monopoly anymore or that there will be an actual good service available. ,False,8,a4a862d0efef2a39,ok,Tennessee,2016,Tennessee
+d7y9yj6,53yzhx,t3_53yzhx,True,1474593284,Telecom companies have held back progress in the US for along time.,False,5,a6e996f715bee67d,ok,Tennessee,2016,Tennessee
+d8698fq,54zcgo,t3_54zcgo,True,1475107598,this isn't /r/Colorado bruh,False,5,275fa41fb604fb72,ok,Tennessee,2016,Tennessee
+d86e815,54zcgo,t3_54zcgo,True,1475115410,/r/Libertarian is leaking.,False,0,14711dd5d0035249,ok,Tennessee,2016,Tennessee
+d8epdly,55x6gp,t3_55x6gp,True,1475647844,"Just because a Tennessee paper wrote an article about the candidate you can't stop spamming across Reddit, that doesn't mean it needs to be posted to the overall Tennessee sub. By that logic, the hundreds of articles written everyday should be posted here. 
+
+Edit: I just skimmed your history some more. Yeah. This isn't something new. You find any article you can about Jill Stein, and then post it to her sub and others that may support her, and then you post it to the city/state subs where the article originated. 
+
+Please, stop spamming local/community subs with your political shit. If people from those areas want to have those discussions, fine. But you coming into a random localities sub and pushing your own agenda is like a Hillary or Trump supporter going to Stein's sub and pushing their agenda. If you wouldn't like it done to you, you shouldn't be doing it to others. ",False,6,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d8esxuv,55x6gp,t1_d8epdly,False,1475659478,"Your comparison is a little off. It's more like a Hillary, Trump, or Johnson supporter coming to r/Tennessee and posting pro-candidate material, like we've endured all election season (especially Johnson).",False,5,1cd2ef0136be1bc2,ok,Tennessee,2016,Tennessee
+d8exfco,55x6gp,t1_d8epdly,False,1475671958,"The other day on my commute home from Nashville, I counted no less than 10 different cars with Jill Stein bumper stickers. I am not making that number up; I was quite astonished. 
+
+Like it or don't, she has some support in this state. 
+
+",False,1,dfb19728b5c5e610,ok,Tennessee,2016,Tennessee
+d8f6jnp,55x6gp,t3_55x6gp,True,1475684834,"Stein is a candidate in a 4-way race. And she has supporters, just like the others do. 
+
+Aside from that, she makes some good points. Libertarians especially might be able to live comfortably with Stein. ",False,4,3939956b05e52a7e,ok,Tennessee,2016,Tennessee
+d8fhsg7,55x6gp,t1_d8f6jnp,False,1475698526,[deleted],True,1,,deleted,Tennessee,2016,Tennessee
+d8fpth1,55x6gp,t3_55x6gp,True,1475709306,"Jill stein is clearly the candidate for Tennessee! I really love promoting her, not bc I approve of her message, but bc she could help trump. Hilary will use voter fraud to win the election if it is even close. Out in Franklin the other day I lied to these hippy dippy idiots that were leaning Hilary, I ranted and raved about Jill stein and her msg. I only did this bc one of the ladies was from NC, and if I had a chance to change her vote from one for the monster to one for stein, then I did my part as an American! ",False,0,845d2c4e2845310e,ok,Tennessee,2016,Tennessee
+d8gym4u,55x6gp,t3_55x6gp,True,1475786440,"Hell ya! Green party all the way.
+
+Trump is a fun, but Greens have vision :D",False,0,dc149a12114e99f5,ok,Tennessee,2016,Tennessee
+d8h557t,55x6gp,t1_d8gym4u,False,1475795647,"Come join our cause, be a part of our vision, at r/jillstein, tell them SymbioticPatriotic sent you and you'll be welcomed with open arms.",False,1,6f8960e48482a53e,ok,Tennessee,2016,Tennessee
+d8ibexw,55x6gp,t3_55x6gp,True,1475869680,"The American Green Party is batshit crazy compared to the Canadian chapter.
+
+
+Stein is a buffoon and should be ignored. She's definitely not the choice for TN, given her vehement anti-nuclear stance. Solar and wind cannot take the place of coal on their own. We NEED nuclear and nuclear is the stepping stone to a much cleaner version of nuclear power.
+
+Stein is a waste of a vote and my voter ""revolt"" in TN is for HRC against that garbage-man Trump, even though I know our state supports him. If they want me to vote 3rd party then they'll put up a viable candidate.",False,3,93329ff990dde7eb,ok,Tennessee,2016,Tennessee
+d8scdwp,55x6gp,t1_d8ibexw,False,1476481788,"The solution to breaking the oligarchy is Borda voting to replace single-choice ballots, not a ""viable candidate"". We must demand Borda voting from our state and federal legislators.
+
+And as far as words go, any candidate on the ballot or registered as a write-in is ""viable"": They only need votes. Viable means ""possible"", not ""declared likely to win by the dominant media"". Please let's use words according to their defined meaning.",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8scigm,55x6gp,t1_d8h557t,False,1476481972,"What are you doing to implement Borda voting?
+
+Why did Stein foolishly advocate ranked-choice voting instead? (This method throws away votes.)",False,2,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8scmst,55x6gp,t1_d8f6jnp,False,1476482151,"No matter how good she might sound, without money she's not going to win until Borda voting is implemented: Because the ballots are single choice, the moneyed media is controlling the election first by picking the winners and shunning the rest out of the race, and then by fear-mongering telling everyone they must vote for X to defeat Y.",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8sgp48,55x6gp,t1_d8scdwp,False,1476488489,"While I agree that we need rank-based voting...I used to word ""viable"" correctly, thank you very much.
+
+Stein and Johnson are absolutely not practical nor suitable candidates for the position of POTUS and their support, media or no media, has them at such a long shot that they are, by the definition of the word: NOT viable.",False,1,93329ff990dde7eb,ok,Tennessee,2016,Tennessee
+d8sinl8,55x6gp,t1_d8sgp48,False,1476491743,"Borda voting, not ranked-choice voting. The former counts all the rankings to determine most preferred; the latter (misnamed, I think) prematurely eliminates candidates based on least first-preferred. (For example, a candidate who was everyone's second choice would lose if he was the least-preferred first choice, which is stupid.)",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8i5ykr,56cowz,t3_56cowz,True,1475862948,"**PROTIP**: Google is a bro and will automatically pull up a form for your particular state, with all the important dates, places and info:
+
+[https://www.google.com/search?q=how+register+to+vote](https://www.google.com/search?q=how+register+to+vote)
+
+[[Screenshot]](http://i.imgur.com/toHxX0B.jpg)
+
+**More Links:**
+
+* [Register online.](http://www.ncsl.org/research/elections-and-campaigns/electronic-or-online-voter-registration.aspx#Table%20of%20states%20w/ovr) (This is available for 31 states plus the District of Columbia).
+
+* If your state does not yet offer online registration, use the national mail in form [here](http://www.eac.gov/assets/1/Documents/Federal%20Voter%20Registration_1209_en8242012.pdf):
+
+* You can also register in person with your [state or local election office](https://www.usa.gov/election-office).
+",False,2,37d335df54226888,ok,Tennessee,2016,Tennessee
+d8nnshu,56cowz,t3_56cowz,True,1476210546,My husband just tried to drop my form off and they wouldn't accept it.  They said that he needed my ID to drop the form off.,False,2,0338bc0f8d477c04,ok,Tennessee,2016,Tennessee
+d8nntan,56cowz,t1_d8i5ykr,False,1476210572,"In Memphis, they wouldn't accept the registration form without photo ID.",False,2,0338bc0f8d477c04,ok,Tennessee,2016,Tennessee
+d8l8bvs,56owyy,t3_56owyy,True,1476062532,Haslam has always been an embarrassment to Tennessee. ,False,-20,7f3b8f4a01512287,ok,Tennessee,2016,Tennessee
+d8l96bz,56owyy,t1_d8l8bvs,False,1476063393,At least he had the good sense to never endorse Trump. ,False,23,42e0e4b5bed1fa25,ok,Tennessee,2016,Tennessee
+d8lbe1t,56owyy,t1_d8l8bvs,False,1476065743,This is the first thing worth a shit he's ever done. I'll agree.,False,17,ccd8fe6a9cdf2c63,ok,Tennessee,2016,Tennessee
+d8le4he,56owyy,t3_56owyy,True,1476068929,Wow... what a fucking loon. ,False,-22,4bfd827690fb556c,ok,Tennessee,2016,Tennessee
+d8lgaj0,56owyy,t3_56owyy,True,1476071868,"Why doesn't he call on Hillary to drop out instead? She's done far worse for this country than Trump has. She literally sold positions within the government in exchange for donations to the Clinton foundation. She told bankers within Goldman Sachs that her private policy positions (towards them) can sometimes differ with her public position (what she tells the people). She ignored requests for greater security in Benghazi hundreds of times then lied to the families of those killed about why they were killed. 
+
+But hey, Donald Trump said grab a pussy. Screw you Bill Haslam! Traitor! ",False,-19,9a7904501a06d0e5,ok,Tennessee,2016,Tennessee
+d8lgcbu,56owyy,t1_d8le4he,False,1476071941,Why do you say that? It sounds a bit harsh.,False,8,d8b33534cb4dbf95,ok,Tennessee,2016,Tennessee
+d8lh3kw,56owyy,t1_d8lgaj0,False,1476073112,Ummm.... Because he's not part of the Democratic party. Republicans are constantly expressing embarrassment because of the way Trump is representing 'their' party. *That's* what this is about.,False,20,d8b33534cb4dbf95,ok,Tennessee,2016,Tennessee
+d8lhrer,56owyy,t1_d8lh3kw,False,1476074219,"Republican voters nominated him! Isn't that how democracy is supposed to work? My point is that Hillary is far worse and thus needs to be stopped. Trump needs the support of his party to do so, not some sniveling coward like Haslam trying to undermine him (and thereby making it harder for Trump to defeat Hillary). ",False,-17,9a7904501a06d0e5,ok,Tennessee,2016,Tennessee
+d8li41d,56owyy,t1_d8lhrer,False,1476074830,"Cool, you think we should pick the lesser of two evils. Haslam (based on his statements) probably thinks we should pick a 'good' candidate. I don't think expressing his opinion makes him a sniveling coward. I don't think believing that people should just settle for one evil over another makes him cowardly at all. Stand up for what's right, not what's easy or convenient.
+
+",False,9,d8b33534cb4dbf95,ok,Tennessee,2016,Tennessee
+d8lj008,56owyy,t1_d8lgaj0,False,1476076509,"In case you haven't been paying attention. The anger over the ""Locker-Room talk"" hasn't been over the *words* he said, it's over the *actions* that those words described. 
+
+Taken at his word, he very nonchalantly talked about committing a textbook case of **Sexual Battery**. He bragged about doing it, that he can get away with it,  and that his victim didn't complain because he was a powerful man (see also: She was afraid of him). 
+
+It's not that he used a crude euphemism. It's that he used a crude euphemism while bragging about getting away with a sex crime. ",False,11,3d90acf400f0211a,ok,Tennessee,2016,Tennessee
+d8lj7r9,56owyy,t3_56owyy,True,1476076930,"Wow, this whole thread is a *no karma zone* errybody getting disagreement down-votes here. ",False,3,3d90acf400f0211a,ok,Tennessee,2016,Tennessee
+d8lmjcj,56owyy,t3_56owyy,True,1476085304,Pence isn't exactly a better choice.,False,8,c0d052e68bb55b15,ok,Tennessee,2016,Tennessee
+d8lmqg7,56owyy,t1_d8lhrer,False,1476085952,Just because his opinion is different than yours does not make him a coward. ,False,12,e4f39d1305b68f6e,ok,Tennessee,2016,Tennessee
+d8lrqs6,56owyy,t1_d8lgcbu,False,1476102618,It's not harsh for him to call for Trump to drop out for complete nonsense? ,False,-9,4bfd827690fb556c,ok,Tennessee,2016,Tennessee
+d8ls2pe,56owyy,t1_d8lrqs6,False,1476103385,Admitting to sexual assault and rape is not complete nonsense. ,False,14,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8ltiuh,56owyy,t1_d8ls2pe,False,1476106318,"Knowing Haslam though, he's just jumping onto a bandwagon. Dude has no integrity. ",False,3,2383e5d5fc6b770e,ok,Tennessee,2016,Tennessee
+d8ltuar,56owyy,t3_56owyy,True,1476106897,Looks like /r/The_Donald is leaking into /r/Tennessee.,False,8,b821355dbc00c8dd,ok,Tennessee,2016,Tennessee
+d8lu9vp,56owyy,t1_d8ltiuh,False,1476107644,Haslam definitely has self-preserving motivations for a run at Capitol Hill. But the comment I am responding to was ridiculous. ,False,5,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8lv6aq,56owyy,t1_d8lgaj0,False,1476109102,"A little late if you ask me.  This dude has been spouting lies and nonsense the whole time he has been running.  He lied so many times last night at the debate.  Not just lies, but the same lies that have been debunked over and over.  Boo Boo on republican voters for not choosing better.  I think almost anyone could beat Hillary, but this dude is running himself into the ground.  
+
+Are you from Tennessee?",False,3,618b86e94fa3ce5b,ok,Tennessee,2016,Tennessee
+d8lv7ye,56owyy,t1_d8ltuar,False,1476109175,They are very offended that people think their guy is a dumbass.  ,False,8,618b86e94fa3ce5b,ok,Tennessee,2016,Tennessee
+d8lvihf,56owyy,t1_d8lu9vp,False,1476109622,"I know that. I just couldn't dignify that one with a response. He belongs on a sex offender registry, not in the White House. ",False,4,2383e5d5fc6b770e,ok,Tennessee,2016,Tennessee
+d8lvktz,56owyy,t1_d8ltiuh,False,1476109720,"You're not wrong. I've dealt with Haslam on some level for almost as long as I can remember, as a Knoxvillian. He probably does have an angle here. However, you can have an angle and still accidentally wind up on he right side of the argument, which is exactly what he's done here. ",False,8,fec957844781f150,ok,Tennessee,2016,Tennessee
+d8lvqwf,56owyy,t1_d8l8bvs,False,1476109971,"Of course. He didn't do much for us as mayor, either. Just like that whack job senator from Utah is still a complete moron, however, he wound up doing the right thing by demanding the FBI turn over more information about the Hillary investigation. It just so happened that the right thing to do lined up with his political aspiration. That's what we are seeing here, as well, and I'm fine with that - as long as the right thing is done. 
+
+It's actually putting Tennessee in a great light nationally. And that is an area where we can use all the help we can get. 
+
+",False,3,fec957844781f150,ok,Tennessee,2016,Tennessee
+d8lw3f9,56owyy,t1_d8lj008,False,1476110481,"Where are the legions of women coming out to say that Donald pressured them into allowing him to grope them? Donald is a crude womanizer, but joking about how easy it is to get to second base with a woman when you're famous is not the same as sexual assault.",False,-5,c90666442e1b4a9b,ok,Tennessee,2016,Tennessee
+d8lwgcj,56owyy,t1_d8lv6aq,False,1476111002,"Hillary lied plenty at the debate last night too. ""You gave to have a public policy that can be different from private policy [during a speech to Goldman Sachs]."" She pretty much said she will lie to the public! ""I was thinking of Abraham Lincoln when I said that"" What a joke! 
+
+And yes, I'm in East TN",False,1,9a7904501a06d0e5,ok,Tennessee,2016,Tennessee
+d8lwxia,56owyy,t1_d8lwgcj,False,1476111673,"Heck yea she did, and every time she said Russia a chill ran down my back. I am not voting for either of them.  Liars and assholes the both of them.  
+
+I am glad our Governor decided he wanted to be better than all this mess.  I never much cared for BH, but I can appreciate when people do the right thing.  ",False,2,618b86e94fa3ce5b,ok,Tennessee,2016,Tennessee
+d8lxa1r,56owyy,t1_d8lv7ye,False,1476112165,It feels like they are more offended because they thought everyone in the sub and Tennessee was either gop or Trumpites. ,False,6,ccf7be979bf12e54,ok,Tennessee,2016,Tennessee
+d8lxh9g,56owyy,t1_d8lw3f9,False,1476112446,"He said you can just grab them by the pussy and no one will do anything to you...
+
+If you can't see what's wrong with someone saying something like that, then you're beyond fucked on a moral scale. Just because hordes if women haven't come forward to publicly attack one of the most powerful, corrupt, and aggressive business men on the planet does not mean they wanted him to so thoroughly reduce them to a walking vagina upon first meeting him. How do you even have the stomach to defend him? Hope do you even call yourself a good person with these thoughts in your head?",False,3,ccf7be979bf12e54,ok,Tennessee,2016,Tennessee
+d8lxn12,56owyy,t1_d8lvktz,False,1476112667,"Or like my grandma used to say ""A broken clock is right twice a day."" ",False,2,2383e5d5fc6b770e,ok,Tennessee,2016,Tennessee
+d8lxoee,56owyy,t1_d8lwgcj,False,1476112718,"It was cringe inducing but accurate 
+
+https://mobile.twitter.com/CarolineSiede/status/785299645308207104",False,1,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8lxr8r,56owyy,t1_d8lwgcj,False,1476112823,"http://www.politifact.com/truth-o-meter/article/2016/oct/09/fact-checks-second-presidential-debate/
+
+while ""plenty"" is subjective comparing the two is not going to win you points for your side",False,1,ba5222dd43bb55ae,ok,Tennessee,2016,Tennessee
+d8lxtjt,56owyy,t1_d8lxh9g,False,1476112912,"All he said was ""they let you do it."" That's consent. You hate Trump so you twist the words to put malicious intent behind them. The entire first half of the tape is him talking about how he tried to seduce a woman and failed.",False,-3,c90666442e1b4a9b,ok,Tennessee,2016,Tennessee
+d8ly4hs,56owyy,t1_d8lxa1r,False,1476113314,Ha.  I guess that could be it.  I'm over here in Memphis and most everyone who supports Trump here lives in North Mississippi.  I don't really know what it is like out in the country.  I did ride to Ripley Saturday but I didn't see any political signs for the national election. None that I noticed anyway.,False,3,618b86e94fa3ce5b,ok,Tennessee,2016,Tennessee
+d8lyfdk,56owyy,t1_d8lxtjt,False,1476113715,"Yeah a married woman too, ""I just can't help but to start kidding them""... ""They let you do anything when you're a star"". If you think that just because someone didn't tell you not to do something, or just because you didn't get caught, it makes it okay or morally right, then you are fucked up dude.
+
+Let me ask you this simple question: do you think it's okay to take advantage of your power by grabbing genitals, kissing, or pursuing sexual relations with someone just because they are afraid to say ""no""?
+
+I could have just asked if I think it's okay to take advantage of your power to do things that other people can't get away with, but somehow, you've shown loose enough morals in your defense of trump that I think I know the answer already, I'll just settle with an answer to a very specific scenario that has already been set forth.",False,3,ccf7be979bf12e54,ok,Tennessee,2016,Tennessee
+d8lz7sb,56owyy,t1_d8lyfdk,False,1476114740,"I'll give you an example from my past. I'm at a party in college, in a crowd watching two teams play beer pong. A girl I barely know stands in front of me. We make brief eye contact and she leans back into me. After a few minutes I place my hand on her lower back. She leans back into my hand. Eventually I slide my hand up her skirt. We leave the party together.
+
+It's embarrassing talking about things like this in a public setting, even anonymously, but I will brag about these things with my friends if there are no girls around.
+
+Did I ""take advantage of my power"" by grabbing her genitals without even talking to her? No. She let me do it because I was a tall and handsome young man in my prime. I'm sure someone like Trump, a tall, rich, famous man notorious for his womanizing, encounters scenarios like this all the time. It's not sexual assault.",False,1,c90666442e1b4a9b,ok,Tennessee,2016,Tennessee
+d8lzwqu,56owyy,t1_d8lv7ye,False,1476115628,"""Down with political correctness!  Say what you mean!""
+
+Your dude is a racist sexist asshole.
+
+""WHOA WHOA BUNCH OF HOGWASH STOP SAYING THAT""",False,10,e7b7b5c44a687e08,ok,Tennessee,2016,Tennessee
+d8lzyr7,56owyy,t1_d8lz7sb,False,1476115698,"I'll give you a point for possibility of this happening, but if we take this and look at it literally for what he said, then this is not the same at all 
+
+What you're doing is creating a plausible deniability by creating a situation where it might seem that Trump wasn't being as bad as he makes himself out to be, but, dude, look at his words. He said these things, and you and half the Republican party are editing them!! You guys literally say to one another nodding and plausible ""Nah, he may have said that, but there's no way he meant it like that. He probably meant it like this (situation that is an understandable misunderstanding but not at all what the man literally said while self-incriminating) and you guys just water down everything that he's done wrong so that it won't seem ""quite so wrong"" as it was when it came out of his mouth!
+
+Why.
+
+I hate Hillary, i don't deny her craziness, but I'm also not making excuses for her and validating her insanity or lose morals. You guys edit, water down, validate, smooth out Trump's befuddlements better than his goddamn PR managers.",False,7,ccf7be979bf12e54,ok,Tennessee,2016,Tennessee
+d8m2abh,56owyy,t1_d8lxtjt,False,1476118572,"> All he said was ""they let you do it."" That's consent.
+
+No. That's not consent. That's being, literally, grabbed by the crotch by a very rich and powerful man, without having any way out. ""Well then call the cops on him,"" because that goes over well. Let me call the cops on one of the richest people in the country while I'm probably making less than 6-figures and can't afford the shaming I'll be subjected to or the ensuing court case.
+
+I'm generally critical of people talking about rape culture, because that term is often used in instances where I think it's more about an objectification/minor aggression issue. But this? What he said and allegedly did (people are already coming out and saying he's done this to them), and you defending it as ""consent,"" is are textbook examples of *actual* rape culture.",False,2,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d8mds46,56owyy,t1_d8ls2pe,False,1476132629,Who the hell are you talking about?  Trump hasn't assaulted or raped anyone.  Are you confused with Bill Clinton? ,False,0,4bfd827690fb556c,ok,Tennessee,2016,Tennessee
+d8mggyq,56owyy,t1_d8mds46,False,1476136093,"Clinton is most likely a rapist. He is also irrelevant to this discussion. 
+
+If trumps comments are to be believed, he admits to sexual assault and rape. Ivanka's divorce testimony accused him of rape. Him and Clinton rode on Air Lolita several times. He is being sued for raping a 13 year old. Reporters have had people come forward and admit that Trump uses this assault technique. http://m.huffpost.com/us/entry/us_57f83edce4b0b6a430326776
+
+He is a piece of shit who should be disqualified for running for President. Hillary has major problems as well, but this is a conversation about Republicans telling Trump to step down. ",False,3,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8oc3wx,56owyy,t1_d8mds46,False,1476243682,"They're both perverts. They both hang in the same circles and around Jeffery Epstein, a well-known pedophile. ",False,1,2383e5d5fc6b770e,ok,Tennessee,2016,Tennessee
+d8pqpam,56owyy,t3_56owyy,True,1476326301,Haslam is the definition of the term Cuck. ,False,-1,845d2c4e2845310e,ok,Tennessee,2016,Tennessee
+d92etoy,56owyy,t1_d8lmjcj,False,1477090593,"I agree, both Trump and Pence are awful. 
+I mean, Rubio was a better Republican candidate, and I'm not even Republican! (In case you ask, I'm Left Libertarian on the political compass)",False,1,54e1a0e0b3550e35,ok,Tennessee,2016,Tennessee
+d9i8vyg,56owyy,t1_d8lzyr7,False,1478089899,"To be fair, you're using a very specific moment in time to paint things black and white. Nobody is inherently bad; no person is the essence of evil. Am I excusing his actions? God no. Do people say shit they shouldn't and do shit they shouldn't? Yes. People are extremely complex and dynamic; reducing them to bad or good is just not reasonable. 
+
+With that said, I also think it's completely irrelevant to take this event into consideration. What in the fuck does him being a womanizer have anything to do with his qualifications for being a president? This is a contributing factor on why are elections have been reduced to a bunch of dribble. A bunch of sensationalized mud-slinging.  Anyways, when considering qualifications one might think about their education, their projects, and their economic plans. Like, oh, he created a 4year plan to do X and Y for a % of the pop. Q, and it was approved by Z economists? Fuck that, he's old/christian/brown/annoying/republican/a panda, I aint voting for that! And didn't you hear, Faux news said he remarried, scandalous! No wonder the news has become a cancerous tumor of rhetoric. 
+
+------------
+
+Unrelated: I am a Bernie S. supporter, so I have defaulted on Hillary. ",False,1,6ef3dcc40d4b6f5c,ok,Tennessee,2016,Tennessee
+d9inpf9,56owyy,t1_d9i8vyg,False,1478109127,"We are on the same page for the most part, but vetting a candidates personality traits is also important. Look at the Philippines right now. Who cares what kind of political talent Duterte has. He is killing thousands. S Korea's president listens to and obeys mysticism in her political policy.
+
+Looking at things like How malleable a candidates beliefs are, their susceptibility or willingness to be swayed by others, their honesty and integrity in their life with marriage, taxes, all, I believe, are indicative of how a person will lead.
+
+I know a guy who owns a very successful small business. Less than 500k a year, but in my industry, that's top of the charts. He has run his various and interconnected small businesses for something like 15 years. He dropped out of college his first year, in his frat picture, he's the only one with a mullet in the early 90s. He has refused to give raises to some of his most dedicated employees for more than 6 years while driving 5 different cars and going on vacation 3+ times a year. He is from a super trashy, redneck family and he doesn't give a fuck how his businesses look or operate, as long as he's making money. This guy has nearly died falling off his roof while working outside in the rain on cocaine and many beers. He fought people, smoked weed, snorted coke, got wasted at his own business for years.
+
+He runs a very publicly successful business and is on the board of several other properties/businesses. If you looked at his track record on paper, you'd probably think that he's a great dude, very business savvy and intuitive. The problem is that he runs his business in shady ways, shafting his employees, making backroom deals, forcing people into low paying, sometimes dangerous, liable positions while feeding you all the time with statements about how he's not making enough money, he can't give out raises cause the employees don't work hard enough, he's got so much overhead, etc etc.
+
+The man can reach into a pile of turds and pull out a gold coin, that doesn't make him a responsible leader, nor does it make him someone you would want to work for, sacrifice for, or stick your neck out for. Assholes often hide their worse traits so they can take advantage of your ignorance. ",False,1,ccf7be979bf12e54,ok,Tennessee,2016,Tennessee
+d8ls11g,56qu1w,t3_56qu1w,True,1476103277,I wouldn't throw away the Socialist Workers Party due to their stance on abortion. Socialism is the most Christian economic system. ,False,3,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8lshp1,56qu1w,t1_d8ls11g,False,1476104301,"The Catholic Church has long opposed socialism, I think due to atheism and the denial of personal property. While perhaps today what is meant by socialism is different, feticide is nearly a deal-breaker when it comes to balancing the scales of the principle of double effect, because not only is it killing an innocent person, it's killing some 1.4 million of them in the United States alone every year.
+
+I would need to learn more about socialism as advocated by this party before I could support it, and I would need to see justification that I should vote for them in spite of their support for feticide.",False,2,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8lsm0q,56qu1w,t3_56qu1w,True,1476104545,"I am hoping to finish my vote within 12 hours, so I hope for your feedback and comments, especially regarding the local elections.",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8lsutq,56qu1w,t1_d8lshp1,False,1476105050,"The Catholic Church has has opposed socialism because of JP2's upbringing in Eastern Europe. He was horrible regarding South American libertarian theology, backing oppresors opposed to people who wanted to help socieity. 
+
+The 1.4 million number has been debunked because it includes fetuses who would not be viable. The majority of abortions are moral if you use the quality of life question. 
+
+To address your final point, socialism is essentially Catholic social theory, help those who need it and treat everyone fairly and fight for the environment and justice. I think that it is overwhelmingly the most ""Christian"" political ideology, while allowing the abortion issue to be up to the individual. Outlawing it would cause more death and harm for women. We cannot go backwards on this. ",False,1,9db283add656d0d9,ok,Tennessee,2016,Tennessee
+d8lxfgn,56qu1w,t1_d8lshp1,False,1476112374,">due to atheism and the denial of personal property.
+
+[SPUSA platform](http://socialistparty-usa.net/platform.html): ""The Socialist Party is committed to the rights of free speech, free press, free assembly, and personal privacy, and the freedom of religious choice through the separation of church and state."" It is the SP-USA official platform that you are free to practice your religion, but that nobodies religion can dictate government policy, nor can the government dictate the tenants of your religion. 
+
+As for the ""denial of personal property"", that is a misconception. 
+
+The Socialist party wants to abolish Private Property, yes, but Personal Property is not the same as Private Property. We want to make some industries and services publicly owned, particularly things that we feel should not have a profit motive (fire departments, healthcare, policing, public utilities, etc. ), and create worker ownership over the rest, where the employees of a company are all equal-part owners. Basically every company is an employee-owned company. 
+
+You can be paid back for your investment (time, funds, etc) in a company, plus interest even, but you cannot be the sole owner of a company unless you are the sole employee. Everyone gets a say. 
+
+tl;dr: Nobody is coming to socialize your toothbrush.",False,2,3d90acf400f0211a,ok,Tennessee,2016,Tennessee
+d8mhp2f,56qu1w,t1_d8lxfgn,False,1476137766,"Isn't land and home ownership ""private property""? Why must someone give half his lawnmower to someone after he agrees to use it an hour a week to cut grass for you? It seems too simple a concept: Work is not divided evenly or even quantifiably sometimes, hence some employees agree to a salary rather than an hourly wage, so I don't see how ownership can be divided proportionately.",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8re382,57emo2,t3_57emo2,True,1476422389,"They have to of registered for you to be able to vote for them and count. There are only a handful available in Tennessee.
+
+[wsmv has a list and info here] (http://www.wsmv.com/story/33362384/rules-in-tn-require-write-in-candidates-to-register)",False,5,362906b7b3fcad4e,ok,Tennessee,2016,Tennessee
+d8rqn24,57emo2,t3_57emo2,True,1476454178,"A voter can write-in literally anything, but only candidates who have filed will have their write-in votes counted.
+
+Here are the names that did qualify as write-ins:
+
+Darrell L. Castle
+
+Cherunda Fox
+
+Tom Hoefling
+
+Kyle Kenley Kopitke
+
+Laurence Kotlikoff
+
+David Limbaugh
+
+Evan McMullin
+
+Marshall Schoenke",False,2,0ec39f37cadf47a0,ok,Tennessee,2016,Tennessee
+d8rsdo0,57emo2,t1_d8rqn24,False,1476456518,I wonder if Kopitke's initials are unfortunate or intentional.,False,5,0756716407ebdb64,ok,Tennessee,2016,Tennessee
+d8rvjd3,57emo2,t1_d8re382,False,1476460456,Wow I had no idea this was the case. ,False,1,a59fb95190046ad0,ok,Tennessee,2016,Tennessee
+d8sc2fs,57emo2,t1_d8rsdo0,False,1476481322,"/Kung Fu Panda ""There are no accidents."".gif",False,1,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d8sc37z,57emo2,t1_d8sc2fs,False,1476481354,"""only happy surprises!"" -- Bob Ross",False,2,ccdc3eaa819c1032,ok,Tennessee,2016,Tennessee
+d987bhj,59eb2a,t3_59eb2a,True,1477464785,"maybe it is silly, but i could totally see a candidates campaigns paying celebrities to take selfies of them voting for them to put on social media.",False,2,8a89c7c030528cff,ok,Tennessee,2016,Tennessee
+d98akqs,59eb2a,t3_59eb2a,True,1477475912,"Not silly. This can be exploited to become voter intimidation. ""Send me a photo of how you vote. If you don't vote for X I will beat your ass."" Secret ballot removes that as a possibility. I'm opposed to ballot selfies for that reason, to protect the integrity of our elections. Free Speech is important, but it doesn't give you the right to shout ""Fire"" in a crowded theater or  Incite a Riot.",False,10,f07f7a889e8a594e,ok,Tennessee,2016,Tennessee
+d98lems,59eb2a,t3_59eb2a,True,1477495915,"Ballot selfies are protected political speech and any laws which abridge that speech are very likely to be violations of the First Amendment (and respective state free speech amendments).  Courts have already started to come to this conclusion. http://www.slate.com/articles/technology/future_tense/2016/09/voting_booth_ballot_selfie_bans_violate_the_first_amendment.html
+
+",False,0,e7b7b5c44a687e08,ok,Tennessee,2016,Tennessee
+d98lghz,59eb2a,t1_d987bhj,False,1477495980,Then you punish the vote buyers and sellers.  Should we also ban public endorsements of politicians by celebrities? ,False,0,e7b7b5c44a687e08,ok,Tennessee,2016,Tennessee
+d98m4af,59eb2a,t1_d98akqs,False,1477496767,"""Could be exploited"" is simply not sufficient to justify such a sweeping ban on political speech. This law is subject to strict scrutiny under the constitutional test of infringement on free/political speech.  Courts across the U.S. are starting to come to the conclusion that these laws are unconstitutional.
+
+Edit: a number of folks aren't free speech fans round here, I see. Cool, cool.",False,-1,e7b7b5c44a687e08,ok,Tennessee,2016,Tennessee
+d99f9ln,59eb2a,t1_d98akqs,False,1477533795,Is there any evidence of this occurring in states where poll selfies are allowed?,False,2,,deleted,Tennessee,2016,Tennessee
+d99fdb1,59eb2a,t1_d987bhj,False,1477533942,I believe anything to do with paying a celebrity by a candidate or campaign is bound by several disclosure laws. The transaction would have to be made public at the very least.,False,1,,deleted,Tennessee,2016,Tennessee
+d9kt1jz,59eb2a,t1_d98lems,False,1478219573,"No, they absolutely aren't. If courts come to that conclusion you will open yourself up both to voter intimidation and straight-up vote selling.",False,0,9c4d0af6eeefc8af,ok,Tennessee,2016,Tennessee
+d9p82xo,59eb2a,t3_59eb2a,True,1478497218,"None of the ""free speech "" or "" celebrity endorsements"" are the problem, damned republicans just don't like JT. ",False,1,710eb01ec9915ce1,ok,Tennessee,2016,Tennessee
+d9bk1f0,59tv7g,t3_59tv7g,True,1477670237,Tl;dw?,False,2,6ec3bc779b1be194,ok,Tennessee,2016,Tennessee
+d9dfufi,5a2knd,t3_5a2knd,True,1477790670,"I went through the same thing looking into our locals this year. For the larger things like Congress, Senate & House https://ballotpedia.org is useful.
+
+Put in your address and they tell you your nominees and give you a little rundown. After that, I found looking up the campaigns on facebook my next best bet.
+
+For alderman and such you will need to look up your ward and google because those are very local based and can be really hard to find info on.
+
+You can also look up your county for full sample ballots to see everything your area has to vote in.",False,4,362906b7b3fcad4e,ok,Tennessee,2016,Tennessee
+d9dg1y5,5a2knd,t1_d9dfufi,False,1477791018,Thanks. This will work very well. ,False,1,5c0089ec90fd1f1e,ok,Tennessee,2016,Tennessee
+d9pq5il,5bn1ml,t3_5bn1ml,True,1478537107,"There are no statewide amendments, so you'll probably have to be more specific.",False,3,122e443e6db7280c,ok,Tennessee,2016,Tennessee
+d9pqafr,5bn1ml,t3_5bn1ml,True,1478537272,what county are you in?,False,1,0ea88eb4631db93a,ok,Tennessee,2016,Tennessee
+d9pr9eu,5bn1ml,t1_d9pqafr,False,1478538443,"Knox, sorry. http://www.knoxcounty.org/election/2016elections/pdfs/sample_ballot_November_Election.pdf. It's my first year of voting. Can i just abstain?",False,1,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9pr9kr,5bn1ml,t1_d9pq5il,False,1478538448,"Knox, sorry. http://www.knoxcounty.org/election/2016elections/pdfs/sample_ballot_November_Election.pdf. It's my first year of voting. Can i just abstain?
+",False,2,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9prmiq,5bn1ml,t1_d9pr9kr,False,1478538882,[deleted],True,1,,deleted,Tennessee,2016,Tennessee
+d9prmjj,5bn1ml,t1_d9pr9kr,False,1478538882,"Please don't abstain. This is an incredibly important election for a whole host of reasons.
+
+I don't live in Knoxville, but if you want a good local guide, this is a decent one: http://wate.com/2016/10/20/knoxville-city-charter-ballot-amendments-explained/
+
+None of them look controversial to me, but, again, I'm not local there.
+
+",False,5,122e443e6db7280c,ok,Tennessee,2016,Tennessee
+d9prrh0,5bn1ml,t1_d9prmjj,False,1478539042,"Not abstain from voting, just from the amendments since i know nothing about them. Thank you I'll look it over! I should have looked earlier about them I know now haha. ",False,1,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9prvly,5bn1ml,t1_d9prrh0,False,1478539178,"Ah, gotcha!
+
+I'd still bone up on the amendments. Quite frankly, local elections are far more likely to have a direct impact on your life than presidential, national and statewide elections. 
+
+These kinds of amendments are how shit starts to go haywire on a local level, if nobody is paying attention. In those cases, where it's a destructive amendment, people in the know vote yes, people who don't really know tend to vote yes or abstain and very few people will vote no.",False,2,122e443e6db7280c,ok,Tennessee,2016,Tennessee
+d9prz80,5bn1ml,t1_d9pr9kr,False,1478539300,"Here you go, just posted this earlier. 
+
+https://www.reddit.com/r/Knoxville/comments/5bmn7l/a_guide_to_local_candidates_in_tomorrows_election/d9plwvp",False,1,2a18ad7bb43b34e5,ok,Tennessee,2016,Tennessee
+d9psm1y,5bn1ml,t1_d9pr9kr,False,1478540053,"Am1 is about when primary elections are held for a number of local offices. Right now they are the last week in September, the amendment would change them to the last week in August. There are pros and cons. Pro: you get more time between the primary and general to campaign against the other party. Con: You're less likely to get students to vote (imo) when you put the primary back at the beginning of the school year.
+
+The other 3 are about amending the charter to line up with federal regulations. It's one of those things that needs to be done, but has to be put to a vote. It's a language thing moreso than a policy thing.
+
+At the end of the day, none of the amendments in Knox County are that Earth shattering.",False,1,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d9psots,5bn1ml,t1_d9prvly,False,1478540146,I should have started looking at them earlier it just didn't cross my mind! I'll do better next time and try to read up on them today. ,False,2,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9psp0l,5bn1ml,t1_d9prz80,False,1478540152,Thank you!,False,1,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9psrv8,5bn1ml,t1_d9psm1y,False,1478540242,Thank you! Thats what i thought when I read the ballot but wasn't sure. I remembered changing election dates/times/requirements usually affected who turns out from my government class 4 years ago so I wondered if there was something more to it. ,False,1,040e2a80a89e2230,ok,Tennessee,2016,Tennessee
+d9pszlo,5bn1ml,t1_d9psrv8,False,1478540497,"Meh. It does, but this isn't one of those big scary ones. I voted no, but I won't be heartbroken if it passes (which it likely will). Voter suppression via voting logistics is a lot more about the number of polling booths, the location of those booths, and the hours with which they operate. Whether or not primaries are held in August or September isn't going to be a major factor in those elections. Since the student population is so unlikely to vote in the first place, this won't change much.",False,1,21661b6d9084ba1a,ok,Tennessee,2016,Tennessee
+d9pt4bn,5bn1ml,t1_d9psots,False,1478540650,"Good plan. Plenty of time, there aren't many, fortunately.",False,2,122e443e6db7280c,ok,Tennessee,2016,Tennessee
+d9q2qfu,5bn1ml,t1_d9prmjj,False,1478551961,I wish they would paraphrase amendments in simple language. Someone in my office voted and was bragging about how they couldn't understand what it was saying but voted anyways.,False,1,9967d909544e6484,ok,Tennessee,2016,Tennessee
+d9q2z20,5bn1ml,t1_d9q2qfu,False,1478552238,"I think the problem is, no one would EVER agree on the ""simple language."" One side's ""fix"" is another side's ""disaster."" 
+
+Plus, some of the most nefarious amendments are worded very simply but have disastrous consequences.
+
+It's really a no-win situation. Best we can do is read it ourselves, check the analysis and make the best decision possible.
+
+The deck is really stacked against voters. And it's totally by design.",False,3,122e443e6db7280c,ok,Tennessee,2016,Tennessee

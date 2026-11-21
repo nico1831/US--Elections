@@ -1,0 +1,11 @@
+id,post_id,parent_id,top_level,created_utc,body,removed,score,user_hash,author_status,state,year,subreddit
+c5uucah,yefyr,t3_yefyr,True,1345250556,"For some reason it won't let me vote. I'm from Cheyenne but I will be at the Snowy Range Music Fest so I vote there.
+",False,2,994f58845793c835,ok,Wyoming,2012,wyoming
+c5uuun3,yefyr,t1_c5uucah,False,1345252985,"So far, it seems The Library is the winner.",False,1,fe25cb3a282e0c04,ok,Wyoming,2012,wyoming
+c5uxbrt,yefyr,t1_c5uuun3,False,1345264556,"Oh lord, Redditors at my bar after I get off work? ",False,1,69047743a4cb1cda,ok,Wyoming,2012,wyoming
+c5v4cbz,yefyr,t1_c5uxbrt,False,1345312231,Which one are you?  I'm usually the drunk guy.,False,1,81f0e761f33b52aa,ok,Wyoming,2012,wyoming
+c5v5ip6,yefyr,t1_c5v4cbz,False,1345317591,"I generally only visit Thurs-Sunday around happy hour. I know the owners, so I'm usually at the bar with family. ",False,1,69047743a4cb1cda,ok,Wyoming,2012,wyoming
+c5v6lcq,yefyr,t1_c5v5ip6,False,1345323056,I know them too.  They hate me.,False,1,ca5af1ad8020b221,ok,Wyoming,2012,wyoming
+c5vhu45,yefyr,t1_c5v6lcq,False,1345388866,And me as well.,False,1,0da6eb8535675817,ok,Wyoming,2012,wyoming
+c5w3jvk,yefyr,t1_c5v5ip6,False,1345489666,Let the guessing game begin.,False,2,81f0e761f33b52aa,ok,Wyoming,2012,wyoming
+c6vinb7,12jbr0,t3_12jbr0,True,1351894106,Senate debate audio starts at 3:13.,False,1,dcafc5c84f5e64ff,ok,Wyoming,2012,wyoming

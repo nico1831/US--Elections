@@ -1,0 +1,8 @@
+id,post_id,parent_id,top_level,created_utc,body,removed,score,user_hash,author_status,state,year,subreddit
+c67tqm2,zu6eb,t3_zu6eb,True,1347578658,[deleted],True,1,,deleted,New York,2012,newyork
+c67vy9p,zu6eb,t3_zu6eb,True,1347587694,I see the sell of diet coke going up.,False,1,a6943c5b8c8a9ff5,ok,New York,2012,newyork
+c6849lv,zu6eb,t1_c67tqm2,False,1347638028,where have you been? ,False,1,d0aa168643d98805,ok,New York,2012,newyork
+c684bba,zu6eb,t1_c6849lv,False,1347638212,[deleted],True,1,,deleted,New York,2012,newyork
+c68ir09,zu6eb,t3_zu6eb,True,1347719255,[deleted],True,1,,deleted,New York,2012,newyork
+c6ki61p,zu6eb,t3_zu6eb,True,1349895999,"We should get politicians to start banning all unhealthy things now. You know, because we should *totally* be focused on banning unhealthy drinks when our economy's in the shitter and politicians running amuck doing whatever they please and getting almost no major opposition!",False,1,dc8849c37254fc6a,ok,New York,2012,newyork
+c6l2yk7,zu6eb,t3_zu6eb,True,1349988640,Beverage makers are going to sue. I don't see this ban getting enforced anytime soon.,False,1,,deleted,New York,2012,newyork

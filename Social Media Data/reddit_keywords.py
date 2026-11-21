@@ -15,7 +15,7 @@ HERE = Path(__file__).resolve().parent      # the "Social Media Data" folder
 RAW  = HERE / "reddit_raw"                  # 204 scraped CSVs (+ _authors.csv later)
 OUT  = HERE / "phase1"                      # everything Phase 1 writes goes here
 
-KW_VERSION = "v2 (2026-11-19)"
+KW_VERSION = "v2.1 (2026-11-19)"
 
 # General election words, built from the four Trends groups
 #   friction: how/where to vote, polling place, sample ballot, voter id
@@ -53,8 +53,9 @@ CANDS = {2012: r"\b(?:obama|romney|paul ryan|biden)\b",
 # Trial words: kept only if the hand-check shows they are precise enough
 TRIAL = r"\b(?:polls|debates?|candidates?)\b"
 
-# Place and shop names removed before matching
-EXCL = r"harris county|harris teeter|clinton township|clinton county"
+# Place and shop names removed before matching; v2.1 also removes upvote/downvote
+EXCL = (r"harris county|harris teeter|clinton township|clinton county"
+        r"|\b(?:up|down)[- ]?vot(?:e|es|ed|ing)\b")
 
 # Which routes count as an election post (flip after the hand-check if needed)
 USE_CAND_ONLY = True

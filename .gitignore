@@ -8,3 +8,7 @@ out/
 .DS_Store
 Thumbs.db
 .vscode/
+
+*.part
+*.done
+Social Media Data/phase3/*.pkl

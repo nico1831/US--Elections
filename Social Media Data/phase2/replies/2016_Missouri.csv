@@ -1,0 +1,805 @@
+id,post_id,parent_id,top_level,created_utc,body,removed,score,user_hash,author_status,state,year,subreddit
+d6estvr,4xe5xx,t3_4xe5xx,True,1471023096,"I don't think I've ever seen Hwy Patrol and thought, hmm isn't that a sight for sore eyes. Nope. Not once. ",False,6,6445c81473adc0f1,ok,Missouri,2016,missouri
+d6ewj08,4xe5xx,t3_4xe5xx,True,1471027583,"After looking at all the entries, I think Missouri has one of the blandest paint jobs of all the car entries. I gotta go with Idaho; runners up Colorado, Mississippi, and New Hampshire.",False,2,32ef526e6bab2995,ok,Missouri,2016,missouri
+d6ey13e,4xe5xx,t3_4xe5xx,True,1471029393,No.,False,4,ed4ddac09ce36075,ok,Missouri,2016,missouri
+d6eym6n,4xe5xx,t3_4xe5xx,True,1471030122,Fuck the police!,False,-2,753fa4cd8975fe99,ok,Missouri,2016,missouri
+d6eywtw,4xe5xx,t3_4xe5xx,True,1471030493,Fuck you and your belief systems.,False,-1,1354e2e043489d0f,ok,Missouri,2016,missouri
+d6lejkc,4y6apm,t3_4y6apm,True,1471455010,"Are there really the same number of Democrat and Republican likely voters in Missouri?  
+Democrat 36%  
+Republican 36%  
+Independent 28%  ",False,1,2813453d7166e68d,ok,Missouri,2016,missouri
+d6lflkx,4y6apm,t1_d6lejkc,False,1471456232,"Maybe? ""Likely voter"" is self-reported and varies in accuracy from year to year. But it's worth remembering that up until '08, Missouri was considered a bellwether state, with our presidential vote always going to whoever was also ahead in other states.
+
+My gut instinct is that the birther candidate sweeps the rural areas, and fear of gun control pushes rural turnout to levels not seen since '00. I don't see any way that Trump doesn't win Missouri, no matter what he says or does between now and November. But I don't have any numbers to back that up and I'd love to be proved wrong.",False,2,1038d98f5b708b7f,ok,Missouri,2016,missouri
+d6lgasp,4y6apm,t1_d6lejkc,False,1471457041,Party ID changes based on election. You don't weight polls by it ,False,1,121c69a38c55e970,ok,Missouri,2016,missouri
+d6li0yi,4y6apm,t1_d6lejkc,False,1471459019,"These numbers are used to determine the meaningfulness of the survey.  Ideally, a truly random survey would have demographics matching the population.  When they don't match, the poll results can be considered flawed.  The confidence interval on these polls are assumed to be 95% since a truly random poll of this sampling size would be 95%, however, there is a 5% chance that the poll sampling is flawed. the only way to prove the CI is to conduct numerous polls in the same manner, then compare results.
+
+This poll has flaws (all of them do) the question is, how big is the flaw.  It is a little heavy on the female sampling (1.5%)  and a little heavy on the African-America sampling (< 1%) a little light on the White sampling (<2%).  All of these are in acceptable range.  
+
+Typically, Missouri has about 10% more Republican voters than Democrats.  this potentially introduces a sizeable error in the poll, but Romney only won Mo by <4% with a Republican gap lead of 11.5%
+
+The real result of this poll is that the poll itself says the poll is indeterminant since 13% are undecided.  That is a group that is 4X larger than the gap between candidates.  When that group gets smaller than the gap, then the poll is telling us something useful.
+",False,6,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d6m5d2v,4y6apm,t3_4y6apm,True,1471490754,So depressing if he wins ,False,3,95d65d4e609e7500,ok,Missouri,2016,missouri
+d6mfks0,4y6apm,t1_d6m5d2v,False,1471517483,Really?,False,1,458e7d68e0665391,ok,Missouri,2016,missouri
+d6na3nq,4y6apm,t1_d6mfks0,False,1471560214,[deleted],True,1,,deleted,Missouri,2016,missouri
+d6niby8,4y6apm,t3_4y6apm,True,1471572301,Yes it is ,False,1,95d65d4e609e7500,ok,Missouri,2016,missouri
+d6tjgh5,4z7jpz,t3_4z7jpz,True,1471975382,"So happy to see Koster safely in the lead. But Trump? Blunt? Come on, Missouri. You can do better than that!",False,8,0f15d88ab8c5dd7b,ok,Missouri,2016,missouri
+d6tl5at,4z7jpz,t3_4z7jpz,True,1471977443,Where's a good place to go for non-biased information on candidates?,False,2,6d7781f3f67287d7,ok,Missouri,2016,missouri
+d6u1oqt,4z7jpz,t3_4z7jpz,True,1471999615,"You mean we ain't gonna have SEAL boy and his machine gun in Jeff City, where he can get all Trumpy on them Demo-Rats?
+
+I am so disappointed.",False,5,cf2fa70e7b9b25a6,ok,Missouri,2016,missouri
+d6u4lui,4z7jpz,t1_d6u1oqt,False,1472003967,"From the looks of that commercial, he'll be plenty happy just sittin' round his pond unloading a hail of bullets into the woods all day.",False,4,32ef526e6bab2995,ok,Missouri,2016,missouri
+d6vfi4u,4z7jpz,t1_d6tl5at,False,1472084588,I personally use [Ballotpedia](https://ballotpedia.org/Main_Page) and [Project VoteSmart](http://votesmart.org/)(I have to use it on incognito mode to avoid paying though),False,2,f1373bf7412ccd08,ok,Missouri,2016,missouri
+d71q0xj,4z7jpz,t3_4z7jpz,True,1472504435,Koster by 11?  That's a huge lead.,False,1,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d6wd3fb,4zjfi0,t3_4zjfi0,True,1472147313,"Well, good for them. I bet their moms are proud.
+
+Won't vote for anybody belonging to a party that has an anti-vaxxer as its presidential candidate.",False,11,cf2fa70e7b9b25a6,ok,Missouri,2016,missouri
+d6wdb8v,4zjfi0,t1_d6wd3fb,False,1472147582,"Jill Stein and the Green Party are not Anti-Vax. She has strongly affirmed her commitment to vaccines.
+
+https://www.youtube.com/watch?v=QTpz2XBGce0 
+
+http://www.snopes.com/is-green-party-candidate-jill-stein-anti-vaccine/
+
+Also, the Green Party has changed their platform to remove their support of homeopathy.
+I think it's important to stop the spread of unfounded and outdated rumors about political parties and candidates.",False,-2,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d6wdc1f,4zjfi0,t1_d6wdb8v,False,1472147607,[deleted],True,0,,deleted,Missouri,2016,missouri
+d6wetdv,4zjfi0,t1_d6wdb8v,False,1472149438,"Now she's saying that she supports vaccines, but has problems with them being regulated by the FDA, because it's in the pocket of Big Pharma.
+
+http://www.slate.com/blogs/moneybox/2016/07/29/jill_stein_continues_pandering_to_anti_vaxxers.html
+
+https://www.balloon-juice.com/2016/07/22/jill-stein-anti-vaxxer-and-homeopathy-sympathizer-whocoodanode/
+
+http://religiondispatches.org/green-candidate-jill-stein-maintains-anti-vaxxer-cred/
+
+Edit-Homeopathy is a scam. Anybody that supports it is an idiot.
+
+http://www.quackwatch.org/01QuackeryRelatedTopics/homeo.html
+
+http://www.ted.com/talks/james_randi
+
+https://www.sindark.com/2007/11/24/homeopathy-is-fraud/
+
+Edit- The only reason they're backing off is because they've been called out on their BS. There's nothing ""unfounded or outdated' by any of this. The Green Party is populated by a bunch of anti-science knuckledraggers that are now trying to do damage control.
+
+",False,10,cf2fa70e7b9b25a6,ok,Missouri,2016,missouri
+d6ww2j1,4zjfi0,t3_4zjfi0,True,1472173032,Is the libertarian party on the ballot?,False,5,0e3477ce11c83c58,ok,Missouri,2016,missouri
+d6wwwyk,4zjfi0,t1_d6ww2j1,False,1472174279,Yes and Constitution. ,False,3,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d6wxxeq,4zjfi0,t1_d6wwwyk,False,1472175740,I'd personally chose libertarian over here for third party. Better shot at getting 15%,False,9,0e3477ce11c83c58,ok,Missouri,2016,missouri
+d6xf41h,4zjfi0,t3_4zjfi0,True,1472215826,Anti-vaxxers rejoicing all across the state.,False,6,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d6xf5ba,4zjfi0,t1_d6wdb8v,False,1472215892,[deleted],True,0,,deleted,Missouri,2016,missouri
+d6xf5qw,4zjfi0,t1_d6wxxeq,False,1472215913,Gary Johnson 2016!!!,False,3,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d6xipo8,4zjfi0,t1_d6xf41h,False,1472221501,"Jill Stein and the Green Party are not Anti-Vax. She has strongly affirmed her commitment to vaccines.
+
+https://www.youtube.com/watch?v=QTpz2XBGce0
+
+http://www.snopes.com/is-green-party-candidate-jill-stein-anti-vaccine/
+
+Also, the Green Party has changed their platform to remove their support of homeopathy. 
+
+I think it's important to stop the spread of unfounded and outdated rumors about political parties and candidates. ",False,3,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d6xiw6n,4zjfi0,t1_d6xipo8,False,1472221750,"I don't trust Snopes at all, they've been proven time and time again to be heavily left leaning in their 'findings' so find an unbiased source.
+
+Thanks for that video though, does a god job to clear up some confusion, I'll be keeping an eye on her but will vote for Gary Johnson in November.",False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d6yg53a,4zjfi0,t3_4zjfi0,True,1472270225,"Good to see more choices on the ballot, even if you don't agree with their positions. 
+
+The only vote wasted is a vote not cast.
+
+Man, it's hilarious how the go to argument against the green party is 'OMG ANTI-VAXXORS.... SO BAD! SHES USING CODE WORDS!'.
+
+Here's their platform:
+http://www.gp.org/social_justice_2016/#sjHealthCare
+
+Jill's Statements on Vaccines:
+
+> “In most countries, people trust their regulatory agencies and have very high rates of vaccination through voluntary programs,” she wrote. “In the US, however, regulatory agencies are routinely packed with corporate lobbyists and CEOs. So the foxes are guarding the chicken coop as usual in the US. So who wouldn’t be skeptical? I think dropping vaccinations rates that can and must be fixed in order to get at the vaccination issue: the widespread distrust of the medical-industrial complex.”
+
+> “Vaccines in general have made a huge contribution to public health, reducing or eliminating devastating diseases like smallpox and polio,” she added. “In Canada, where I happen to have some numbers, hundreds of annual death from measles and whooping cough were eliminated after vaccines were introduced. Still, vaccines should be treated like any medical procedure–each one needs to be tested and regulated by parties that do not have a financial interest in them.”
+
+Personally, I think people are being nit-picky at this point. 
+
+*shrugs*
+
+",False,4,752338f4f00298ce,ok,Missouri,2016,missouri
+d70vvyn,4zjfi0,t1_d6wxxeq,False,1472448870,15% in the election is meaningless.  It's 15% in polls that gets them in the debate.,False,2,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d70vx9o,4zjfi0,t1_d70vvyn,False,1472448962,That's obviously what I meant,False,1,0e3477ce11c83c58,ok,Missouri,2016,missouri
+d70vzwf,4zjfi0,t1_d6wetdv,False,1472449149,"Thanks CTR.  
+
+Listen, the Harvard trained medical doctor isn't in favor of anti-vax nonsense, and it's a straight up planned talking point from the Clinton campaign.  
+
+There is nothing in the Green party platform about homeopathy either.  It had been removed at the convention.  It's not ""damage control"" it's changing based on better information.
+
+Tell that to the GOP who refuses to take out homophobic sections of their platform or to the Democrats who refuse to call the Israeli military in Gaza an ""occupation.""  
+
+Shit, the Clinton campaign is coming out with this ""anti-science"" label when their candidate can't figure out email.  When will they admit they're obviously ""anti-computer science?!""",False,0,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d70w300,4zjfi0,t1_d70vx9o,False,1472449366,"Sorry for my confusion, it wasn't obvious to me.  ",False,1,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d70xzi2,4zjfi0,t1_d70vzwf,False,1472454786,"When it's been known homeopathy is a fraud since its inception, how in the hell did it take these people until 2016 to remove it from their platform? That's CYA at it's finest.
+
+And Stein is still talking out her ass when it comes to vaccines, saying things like  ""There were concerns among physicians about what the vaccination schedule meant, the toxic substances like mercury which used to be rampant in vaccines. There were real questions that needed to be addressed. I think some of them at least have been addressed. I don’t know if all of them have been addressed.""
+
+In other words, she was saying that thimerosal was dangerous, when anybody that's been a doctor in the last twenty or so years knows that's patently false. So either she's a liar, a nut job, a shitty doctor, or all three.
+
+And lately, in order to deflect questions about the subject, she goes off on tangents about the ""outsize influence' of Big Pharma on the FDA and , for some reason, the CDC, and she does it in a way that give the impression she thinks there's something nefarious going on with the way vaccines are manufactured in this country.
+
+She's blowing a dog whistle, and the idiots who have pretty much destroyed immunity to all kinds of diseases all over this country are listening.
+
+The Green Party is only backing down from its dangerous and idiotic views because it sees a slight opening for it in the political arena. It has followed this same path all over Europe. It gets a little momentum in a country's electorate, people start asking it about it's bizarre medical and scientific views, and, VOILA!, the Green Party's suddenly all for mainstream science and medical practices.
+
+They've been doing this for years:
+
+http://o.canada.com/news/elizabeth-may-homeopathy
+
+http://outbreaknewstoday.com/dr-jill-stein-and-the-green-party-on-homeopathy-54886/
+
+http://www.skepticnorth.com/2011/04/voting-green-read-this/
+
+https://www.theguardian.com/science/2010/apr/29/green-party-science
+
+https://www.theguardian.com/science/political-science/2013/jul/30/green-movement-science
+
+
+Over the years, this pattern has repeated itself, in country after country. I can post more links, from Germany, from France, Belgium, The Netherlands...
+
+In other words, the Green Party is anti-science until it can't be any longer. Not because  any of its core beliefs have changed, but because of political expediency
+
+
+
+
+
+
+ 
+",False,1,cf2fa70e7b9b25a6,ok,Missouri,2016,missouri
+d71b03s,4zjfi0,t1_d6wetdv,False,1472485223,"> she's saying that she supports vaccines, but has problems with them being regulated by the FDA, because it's in the pocket of Big Pharma.
+
+Well, she isn't wrong....",False,2,9006a80ce5e67b08,ok,Missouri,2016,missouri
+d71b3wt,4zjfi0,t1_d70xzi2,False,1472485364,"<eyeroll>  It's not a dog whistle.  You're just wrong on this.  She has said in unequivocal terms that she is in favor of vaccines, and has the goal of INCREASING vaccinations by restoring trust in bureauctratic organizations.  
+
+If you think Big Pharma is a tangent, try and buy an EpiPen.  They're very relevant.
+
+Changing the platform makes sense for thinking rational people.  How come the GOP and Dems won't do it?  You don't have an answer for that.  In fact, you conveniently ignore that.  
+
+All your posts are dated before the Town Hall.  You can't hold upper end candidate responsible for every notion of the party anyhow, Hillary Clinton and Donald Trump will BOTH tell you that.  (Particularly on Free Trade, where they both break party ranks). 
+
+You are just going to keep posting your confirmation bias dated hit pieces, go for it.  But the worst part?  The part that is absolutely ridiculous and how I know I'm not dealing with rational people who put out these hits?  It goes something like this - 
+
+""I can vote for a party that doesn't want anyone to afford health care, or a party that takes a ton of money from the pharmaceutical industry.  I can vote for parties that are pro-war and pro-Palestinian apartheid and are responsible for hundreds of thousands of deaths around the world.  And I *have to vote for those parties* because the one that isn't in favor of those things said something wonky a long time ago about an issue that isn't handled by federal governments and won't likely affect me."" 
+
+Well played.  I'm sure the kids coming home in bodybags and missing limbs will be happy that they didn't have the concern about inoculations. 
+
+Tell me more about political expediency...  I've never, ever, ever, heard anything about that from mainstream parties.. /s",False,1,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d7pes2d,4zjfi0,t1_d70vvyn,False,1474043335,[deleted],True,1,,deleted,Missouri,2016,missouri
+d6xurqv,4zl1fp,t3_4zl1fp,True,1472237044,"TIL:  new swing states = ""Trump's so terrible even diehard Republicans are going to abstain or vote for Clinton""",False,3,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7dm0js,4zl1fp,t3_4zl1fp,True,1473297380,[removed],True,1,,deleted,Missouri,2016,missouri
+d7nodic,52uagd,t3_52uagd,True,1473940260,I submitted mine!,False,1,00bade6c30279ebc,ok,Missouri,2016,missouri
+d7nopsv,52uagd,t3_52uagd,True,1473941064,"Who are you, what is this for?",False,11,1d484d8b5d8d349f,ok,Missouri,2016,missouri
+d7np8zu,52uagd,t3_52uagd,True,1473942235,Are you going to publish the results?,False,8,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7nqmgv,52vvko,t3_52vvko,True,1473944911,"I hope people will still seek training regardless. 
+
+But I am glad I don't have to pay a damn fee to exercise my right.",False,17,28baeef04873fb03,ok,Missouri,2016,missouri
+d7nwatw,52vvko,t1_d7nqmgv,False,1473953081,Ditto. On both points. ,False,4,5890c760bef8c454,ok,Missouri,2016,missouri
+d7nweiu,52vvko,t3_52vvko,True,1473953209,"I will be glad when we get a new governor who will not veto based on their own agenda, but will work for the populous. He has intentionally wasted time and tax payers dollars fighting issues that are not his to fight. The over riding of his veto should be a sign that he is not on the correct side of the battle, and he should pass what the majority puts forth. ",False,-7,32d862641c96db5d,ok,Missouri,2016,missouri
+d7nxa23,52vvko,t1_d7nqmgv,False,1473954314,"I'm not sure how this will still go, but if you want to carry while in another state that recognizes our ccw, you still might have to be forking over cash.",False,8,b9175cec9376937e,ok,Missouri,2016,missouri
+d7nxedv,52vvko,t1_d7nxa23,False,1473954466,Most likely. Other states won't recognize it.,False,3,28baeef04873fb03,ok,Missouri,2016,missouri
+d7ny3xc,52vvko,t3_52vvko,True,1473955349,"Why would they do this? Republicans *don't* want people with CC licenses to have training on how to use them? God, please drown them all in a lake like a bag of cats. ",False,-3,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7nyil1,52vvko,t1_d7nqmgv,False,1473955861,"You really shouldn't have to hope that people who have weapons are trained to use them, the same way you shouldn't have to hope that people with drivers licenses actually passed their driving tests. 
+
+Do you think that driving is your right too or is that not your right because it's not in the constitution because cars weren't invented yet, so paying for your license is OK? Are you so stuck up on the constitution that it makes you have poor logic and critical thinking skills about basic safety protocol between similar objects? Was the fee actually exploitative or was it to cover costs? I paid for my driving classes *and* license so I could have the privilege of driving and that you could know I'm doing it safely, you should do the same. Should you even have to pay for your gun or is that just your right too? 
+
+-The fact that there was no logical compromise that ""sides"" were able to come to makes me so angry that our government is so incompetently impotent at even coming to basic safety procedures about gun training. 
+
+-And you know, you and others like you with your misplaced notions about what you think your rights entitle you to are exactly why the politicians that are birthed from our society are so incompetent. Your right to bare arms means you shouldn't have to pay for training to legally carry themapparently , so you complain so much that your congress people make this idiotic decision to completely scrap all required training? Great job!!!!! You all sure fucked that up. ",False,7,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7nz3wi,52vvko,t1_d7nxedv,False,1473956608,"all other constitutional carry states will recognize this.  So now if you're a Missouri resident, you can carry concealed in Kansas as well as some other states without a permit.",False,6,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7nz76d,52vvko,t1_d7nweiu,False,1473956722,"You have no idea how checks and balances work?
+
+You literally just said the Governor should just rubber stamp the General Assembly. That is the OPPOSITE of his job description. In case you didn't notice, Jay Nixon was elected twice. 
+
+Would you feel the same way if it were Democrats in the General Assembly and a Republican in the Governor's Mansion?
+
+Go take a junior high school level civics class please. ",False,11,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d7nz7dk,52vvko,t1_d7ny3xc,False,1473956729,"Technically, to obtain a CCW permit in Missouri, you still have to take a class.  This law is for people who just want to carry in their home state without having to jump through hoops for the simple right to protected one's self.",False,4,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7nzb5w,52vvko,t1_d7nz7dk,False,1473956858,">Senate Bill 656 eliminates the requirement to get training and pass a background check before being legally allowed to carry a concealed weapon in public.
+
+How can what you're saying and what the article is saying in the very first line both be true? I don't understand. It literally says that the requirements for training and a background check have been removed.
+
+>Previously, gun owners could carry a concealed weapon in public by passing a criminal background check and completing a gun safety training class in order to get a permit.
+
+>On the final day of the 2016 legislative session, lawmakers approved a bill eliminating those requirements and allowing someone to carry a concealed firearm in public without a permit.",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7nzdt2,52vvko,t3_52vvko,True,1473956946,Education is compulsory even though free speech is a right. So I don't think it's a stretch to say that firearms training should be compulsory for those who choose to exercise their right to bear arms. ,False,6,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d7nzjzz,52vvko,t1_d7nyil1,False,1473957159,"Are you angry because you are frightened? 
+
+",False,0,28baeef04873fb03,ok,Missouri,2016,missouri
+d7nzouw,52vvko,t1_d7nzjzz,False,1473957327,"Can you respond to anything I've actually asked? This is completely irrelevant to anything I've actually said, it's a strawman, and it seems like you just want to ignore having to confront the stupidity of your own choices and decision making and the way your politicians behave because of it. ",False,4,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o0ifm,52vvko,t1_d7nzouw,False,1473958358,[deleted],True,0,,deleted,Missouri,2016,missouri
+d7o0mps,52vvko,t1_d7o0ifm,False,1473958503,"No they weren't, I don't think you were able to comprehend what I said. Anyway, the logical structure by which you approach the topic of gun/car licensing is about as sturdy as a house of wet noodles. Have a good day and don't accidentally shoot yourself in the head you rebel outlaw man, you. ",False,2,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o0vot,52vvko,t1_d7nzdt2,False,1473958809,I agree. I think public schools should start teaching firearm safety again. ,False,15,92310a820ee894c2,ok,Missouri,2016,missouri
+d7o2jen,52vvko,t1_d7ny3xc,False,1473960836,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7o3gfe,52vvko,t1_d7ny3xc,False,1473961929,"Just fyi, the training class for the cc permit was a joke",False,9,80d455357e1318b7,ok,Missouri,2016,missouri
+d7o3mhi,52vvko,t1_d7nzdt2,False,1473962133,"Thing is, without education, you still have a right to free speech.",False,3,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o3o6b,52vvko,t1_d7o3gfe,False,1473962188,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7o3pfj,52vvko,t1_d7nzb5w,False,1473962231,"> How can what you're saying and what the article is saying in the very first line both be true?
+
+Because I didn't say you had to take a class to carry concealed, I said you still have to take a class to get a CCW permit, which is true.  Read what I said again literally and you'll understand.",False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o3q9v,52vvko,t1_d7o3gfe,False,1473962260,"Maybe for newcomers but I'm sure there's valuable info in there for Sally or Suzy about trigger discipline and how to actually effectively using a firearm. They don't come with instructions, do they? Do you just pull the trigger and it shoots and that's all there is to it? Can I keep it in my purse with my lipstick with a chambered round or no? It seems like I can shoot it faster that way. ",False,2,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o3r62,52vvko,t1_d7o3gfe,False,1473962290,"Yep, nowhere near a comfortable level of training for anyone who actually wants to defend themselves with a firearm.  Any intelligent gun owner knows this.",False,3,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o3tqs,52vvko,t1_d7nzjzz,False,1473962378,Pretty much half the sub when guns come up.  Better for them to be in fear of something than actually understand it.  Kind of like people who believe the Earth is flat.,False,-1,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o42l4,52vvko,t1_d7o3q9v,False,1473962680,">Can I keep it in my purse with my lipstick with a chambered round or no? It seems like I can shoot it faster that way.
+
+Well, you can, safely, if you have a holster on it.  :)",False,3,8ddb63bb7f8b06c4,ok,Missouri,2016,missouri
+d7o42uu,52vvko,t1_d7nyil1,False,1473962690,"Since nobody responded to you, I will.
+
+* No, driving is a privilege, not a right, that's been clear
+* All Americans should be stuck up on the Constitution as it's the only thing guarantees us our freedoms, attempting to undermine it makes you look whiny
+* The fee was to cover costs but many people believe you shouldn't have to jump through hoops in order to freely protect yourself
+* Clearly paying for a gun has nothing to do with rights as it's a product that is produced by a company that deserves compensation for production
+* You clearly DO NOT understand the amount of 'training' that a person has to go through for a CCW permit.  It is nowhere near a level that would make someone comfortable with a gun in order to protect themselves.  Comparing the CCW class to training is like calling the written/driving tests at the DMV driving training.",False,10,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o44uz,52vvko,t1_d7nz7dk,False,1473962761,"Oh that's reassuring.  Thank you.  So I'll still be able to carry in lots of other states with my permit...
+
+...and my wife, who doesn't have one, will be able to carry around town.  Even better!  (don't worry, I'll teach her better than the class ever did)",False,5,8ddb63bb7f8b06c4,ok,Missouri,2016,missouri
+d7o4d4d,52vvko,t1_d7o42uu,False,1473963051,"Well somebody did respond to me and asked if I was angry because I was frightened. You should know because it looks like you upvoted them when you responded to them in support and basically called me a ""flat earther for guns"". 
+
+Owning guns is a privilege too even if the constitution doesn't say so, that's why we take them away from felons and have constitutional amendments that make it so a three time violent felon can't buy a gun. If I look whiny, you certainly then would look stupid. 
+
+>Clearly paying for a gun has nothing to do with rights as it's a product that is produced by a company that deserves compensation for production
+
+So the state shouldn't be compensated for the time it spends to give you a license? That makes no sense, a service is a product you pay for too and that deserves compensation as well. 
+
+I'm not sure what you mean about training. Are you saying like that other person was saying that the classes are useless? It sounds like they should have a fuckload more training then rather than less, if they are not able to handle guns comfortably. That's the whole reason training exists. I had to practice for quite a while before I could safely be on the road with a car, you should do the same for a gun if your alternative is to give guns to people who can't handle guns safely. Think about what you actually just said... 
+
+
+",False,-2,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4dqs,52vvko,t1_d7o44uz,False,1473963072,"At least your wife can protect herself now, that's got to make you feel a little better unless you'd rather her be a victim, which I can't imagine you would.",False,1,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o4hyg,52vvko,t1_d7o4dqs,False,1473963215,"That was kinda my point:  she can protect herself now, and I'm happy about that. :)",False,2,8ddb63bb7f8b06c4,ok,Missouri,2016,missouri
+d7o4l5g,52vvko,t1_d7o4d4d,False,1473963321,"> Owning guns is a privilege too even if the constitution doesn't say so, that's why we take them away from felons and have constitutional amendments that make it so a three time violent felon can't buy a gun
+
+Oh? So voting is a privilege as well then?
+
+> So the state shouldn't be compensated for the time it spends to give you a license?
+
+Never said that, I don't have a problem with it, in fact, it makes sense to me.  If you don't want the permit to carry in other states, you shouldn't have to pay to protect yourself in your home state.
+
+> Are you saying like that other person was saying that the classes are useless?
+
+No, I'm saying the one 8 hour CCW class you have to go through for the permit is more of a knowledge test and shooting test, not training.  I highly recommend people seek training beyond that class if they are going to carry. Do I think it should be a law? No, that restricts people too much.",False,5,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o4lkk,52vvko,t1_d7o3pfj,False,1473963336,"What's the difference? A CCW permit lets you carry concealed, right? I'm not sure of the point of your comment if it's not related to requiring a permit to carry a concealed gun. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4nr7,52vvko,t1_d7o4hyg,False,1473963410,"Haha, okay, hard to tell when people are being sarcastic or not on the Internet and with all the bleeding hearts in this sub, you can never be too sure!",False,0,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o4rh8,52vvko,t1_d7o4lkk,False,1473963539,"> What's the difference? A CCW permit lets you carry concealed, right?
+
+Yes, in your state and in others that honor the permit, basically the permit allows you to carry almost anywhere in the US.  
+
+The law that passed yesterday only applies to concealed carry within the state of Missouri.  It just so happens that other states that have passed this type of law also recognize residents of states that have passed constitutional carry.",False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o4rsc,52vvko,t1_d7o4l5g,False,1473963549,"Yeah, you can't vote if you're a felon either. Your right to vote is taken away from you.
+
+The parent comment *did* say that. So you and the parent comment are in disagreement then, and that is the reason he seemed to state that he supported this. 
+
+I guess I just disagree that people should be allowed to carry a firearm without knowing how to use it safely. Maybe it should be compulsory then, but being able to buy a gun without knowing how to use it, and this failure of training all sounds really very stupid. It restricts people too much for their own self defense? I can kind of see where you're coming from but everyone who owns a gun should absolutely know how to use it safely, or they shouldn't have them. ",False,7,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4tme,52vvko,t1_d7o4lkk,False,1473963610,"A CCW allows you to carry in a reciprocating state.  Constitutional carry does not.
+
+",False,2,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7o4w8d,52vvko,t1_d7o4rsc,False,1473963702,I don't disagree that carrying without training is stupid but we live in a country where it's your right to be an idiot.  That right alone is probably the most dangerous right we have because people are constantly causing accidents out of stupidity that no law would ever fix without almost completely restricting our freedom and liberty.,False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o4wcj,52vvko,t1_d7o4tme,False,1473963707,"Ohhhh! Thank you, that makes sense. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4why,52vvko,t1_d7o4rh8,False,1473963712,Thank you! I get it now. ,False,2,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4y1l,52vvko,t1_d7o4nr7,False,1473963764,"I understand completely.  I'm fairly progressive myself, but I support responsible gun ownership for a variety of reasons (chief among them I happen to *like* guns!)
+
+Now I just need to go buy her a little Ruger LCP and pocket holster...",False,3,8ddb63bb7f8b06c4,ok,Missouri,2016,missouri
+d7o4ylq,52vvko,t1_d7o4w8d,False,1473963782,"It should be your right to be an idiot when it can only hurt you. People don't have a right to be idiots on the road and that's enforced as it should be. When your idiocy can get innocent people killed that is when your right to be an idiot needs to be revoked. That to me makes sense in the context of passing a driving test, which is good, but now there is apparently no basic qualifications test to even make sure people can fire a gun without blowing their friends' head off, which is very bad.
+
+",False,2,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7o4z33,52vvko,t1_d7o4why,False,1473963799,Glad I could help.  I can also tell you that LEO's have a lot more respect for guys with permits rather than guys carrying just because they can due to constitutional carry laws.,False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o53a7,52vvko,t1_d7o4ylq,False,1473963941,"> When your idiocy can get innocent people killed that is when your right to be an idiot needs to be revoked.
+
+Unfortunately, that's a slippery slope.  We're supposed to have a justice system in place to properly punish people in these situations but it's so clogged up with the War On Drugs, we can't even rely on it anymore.
+
+IMO, texting and driving is worse than carrying without training and I would put money on the fact that people text and drive more than they carry without training.",False,4,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o5tuo,52vvko,t1_d7o3mhi,False,1473964843,"But education is compulsory. So, in essence, you're required to understand how to use speech. No different for guns IMHO. ",False,7,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d7o7t4w,52vvko,t1_d7o53a7,False,1473967226,"Texting and driving is illegal or approaching illegality in many states because yes, it is dangerous. You also realize part of the emphasis and enthusiasm for driverless cars is because they're so fucking dangerous, whether you're paying attention or not.
+
+Compare the 31k total deaths in the US in 2012 to the amount of fun violence the following year (as taken from Wikipedia). ""According to the Centers for Disease Control and Prevention, in 2013, there were 73,505 nonfatal firearm injuries (23.23 per 100,000 U.S. citizens);[2] 11,208 homicides (3.5 per 100,000);[3] 21,175 suicides;[4] 505 deaths due to accidental/negligent discharge of a firearm; and 2,818 deaths due to firearms-use with ""undetermined intent"",[4] for a total of 33,636 deaths due to ""Injury by firearms"",[4] or 10.6 deaths per 100,000 people.[4] Of the 2,596,993 total deaths in the US in 2013, 1.3% were related to firearms.""
+
+Whether you believe it's a constitutional right or not, how do you people not see that guns are dangerous to society?",False,4,9e6d3f41b5ab8aa7,ok,Missouri,2016,missouri
+d7o7vh7,52vvko,t1_d7o4y1l,False,1473967304,"Borrow my Sig P238 and take her to the range, see how she likes it.",False,3,9078a72139476915,ok,Missouri,2016,missouri
+d7o810t,52vvko,t1_d7o7t4w,False,1473967487,"Because some of us are smart enough to look at the numbers and realize guns aren't the most dangerous thing to society, overall incompetence is probably the most dangerous.  That and there is and will always be an underlying motive to remove guns from the hands of the people.",False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7o861b,52vvko,t1_d7o42uu,False,1473967660,"> You clearly DO NOT understand the amount of 'training' that a person has to go through for a CCW permit. It is nowhere near a level that would make someone comfortable with a gun in order to protect themselves. Comparing the CCW class to training is like calling the written/driving tests at the DMV driving training.
+
+Precisely this.  My class was some videos, some talk, a bunch of newbie questions, then a trip to the range to do some shooting.  I aced my shooting test early on and stuck around to just do some recreational shooting afterwards, while some of the young women in the class who had never fired a gun before learned how to hold, load, rack, and fire the class weapons.",False,8,9078a72139476915,ok,Missouri,2016,missouri
+d7o87uf,52vvko,t1_d7o0vot,False,1473967720,I'd call that a win in my books.,False,6,9078a72139476915,ok,Missouri,2016,missouri
+d7o88qo,52vvko,t1_d7o5tuo,False,1473967752,"> So, in essence, you're required to understand how to use speech.
+
+No, you're just required to have someone tell you about it, there's no prerequisite that you understand the material.",False,5,9078a72139476915,ok,Missouri,2016,missouri
+d7o8br4,52vvko,t1_d7o4why,False,1473967854,"Having the CCW permit also gets you around certain federal restrictions, such as carrying a weapon within 1000 feet of a school zone.",False,2,9078a72139476915,ok,Missouri,2016,missouri
+d7o8r70,52vvko,t1_d7o88qo,False,1473968376,https://www.reddit.com/r/findareddit/comments/52jshl/a_sub_that_collects_posts_of_users_being/,False,0,149d03fd0fb21e44,ok,Missouri,2016,missouri
+d7o9ehi,52vvko,t1_d7o7vh7,False,1473969154,She already knows she likes the way the LCP feels in her hand.,False,5,8ddb63bb7f8b06c4,ok,Missouri,2016,missouri
+d7o9sgd,52vvko,t3_52vvko,True,1473969628,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7o9w24,52vvko,t1_d7o810t,False,1473969752,"Why don't you address the substance of my comment instead of deflecting?
+
+And for your last point. Are you telling me that armed civilian resistance is what keeps the American people safe from tyrannical overreach? If so, you need to seriously reevaluate your perspective.
+
+Edit: because, if it is, then where the fuck have you people been while our rights and powers as private individuals have been so undermined that the government can spy on us with impunity, can gun us down in the streets whether were armed or not, can invade our homes and seize our properties without so much as a fucking warrant? Huh!? Where the fuck have you been while our water and land and air are polluted by industries regulated by their former employees that they still ""own""? While our wages stagnate and the rich continue to accumulate vast quantities of wealth? While our healthcare costs and educational costs sky rocket to the point that we are living in a society stratified and subordinated by inequity? You and your ilk claim that guns empower people to prevent tyranny. Well man, looks like it didn't work after all.
+
+Add: the function of a well-armed militia is fulfilled by the national guard, local and state-wide police agencies, national law enforcement, homeland security, the military... Etc. etc. you really think there was a clause included to make sure private citizens could use weapons against a democratically elected government? No! It was to ensure, in a time vastly different from our own, that all people could be safe in their homes and far-away townships. It was NOT because people should have the right to carry lethal weapons without instruction, permit, education, or cause in fucking public.",False,2,9e6d3f41b5ab8aa7,ok,Missouri,2016,missouri
+d7oa0sh,52vvko,t1_d7o9w24,False,1473969916,"> Are you telling me that armed civilian resistance is what keeps the American people safe from tyrannical overreach?
+
+Partially, but not completely.  There's also a movement in the country to pull all of your trust in police and let them and the government be solely responsible for your own personal protection.  In my mind, that is pretty insane.",False,2,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7oa8c4,52vvko,t1_d7nzdt2,False,1473970177,"You parents are responsible for your education, which is why they can opt to send you to a private school  or even home school you if they decide to.
+
+I went to a public school, but my dad did teach me firearms safety comprehensively and from an early age.",False,3,fecd4bce80463405,ok,Missouri,2016,missouri
+d7oawy5,52vvko,t1_d7oa0sh,False,1473971026,"Aside from ignoring every other point in my rambling, slightly overly aggressive, but otherwise valid comment, you do realize that you're arguing against the underlying premise of essentially all modern western government, right? The state is the agreed upon arbiter of force specifically so it protects people unable or unwilling to protect themselves. That's like the whole thing. If self defense were left to the individual, it would be up to the strongest and most powerful to decide who deserves protection and who deserves to be victimized. How exactly would that work for people?",False,-2,9e6d3f41b5ab8aa7,ok,Missouri,2016,missouri
+d7oi0gs,52vvko,t3_52vvko,True,1473980682,All you Felicia's complaining. Bye.,False,1,0b2a38002d86ed25,ok,Missouri,2016,missouri
+d7om754,52vvko,t1_d7o9w24,False,1473987019,I'm getting drunk hoppin in the pick up and shooting at some stop signs just for you buddy. ,False,1,eecbb91e7b2b39be,ok,Missouri,2016,missouri
+d7otj5n,52vvko,t3_52vvko,True,1473998199,"This will be interesting to see how it effects St Louis, especially in poorer areas. Guns are already very prevalent and accessible, but now people will not be questioned for carrying one under their shirt.",False,1,328873380a043fa2,ok,Missouri,2016,missouri
+d7p1d8f,52vvko,t3_52vvko,True,1474020304,Criminal-Americans will exploit this. But at least whites can have a chance to protect themselves without breaking the law.,False,-4,e9fdb12e9eb57fe9,ok,Missouri,2016,missouri
+d7p8lkl,52vvko,t1_d7om754,False,1474035502,Haha I don't care if you're being serious or not. That's funny.,False,1,9e6d3f41b5ab8aa7,ok,Missouri,2016,missouri
+d7pc16r,52vvko,t1_d7p1d8f,False,1474039950,Mention of race isn't necessary.,False,7,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d7pe36n,52vvko,t1_d7nqmgv,False,1474042490,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7piwgq,52vvko,t1_d7nyil1,False,1474048360,"Cars...with the vast amount of training *eyeroll* that you had to go through so that we can ""know you are doing it safely""  *double eyeroll* and all the fees....blah blah blah...are far and away more dangerous than guns...
+
+The number of gun-related deaths in the US is similar to car fatalities, however, nearly 70% of gun deaths are suicides.  But, even counting those, cars are about as deadly as guns.  When including injuries in the mix, cars are overwhelmingly more dangerous than guns.  More than 2 million Americans are injured by automobiles each year while only about 70,000 are injured by guns.
+
+",False,1,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pj4f0,52vvko,t1_d7piwgq,False,1474048626,"You should go put your blah blah blah and your eyerolls into the bank and save up, then get an education with it so you can learn to talk *without* doing that so you can actually make a point and hold discussion like an adult. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7pjdy6,52vvko,t1_d7o4d4d,False,1474048956,"> Owning guns is a privilege too even if the constitution doesn't say so, that's why we take them away from felons and have constitutional amendments that make it so a three time violent felon can't buy a gun. If I look whiny, you certainly then would look stupid. 
+
+That is not true.  The US Constitution provides for the removal of a person's RIGHTS after due process.  That does not magically convert a right into a privilege.
+
+",False,2,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pjnuo,52vvko,t1_d7pj4f0,False,1474049300,"Your massive amount of run-on sentences tells me you have little to no education and that i am probably more educated than you are because i have a degree in Electronics Engineering with a Master's in Computer Science and a minor in statistics and am currently working on a double major in Mechanical Engineering/Civil Engineering at MU your ""training"" in driving does not insure that you are a safe driver since there are more automobile wrecks in the US than there are gun fights so your entire argument is as lame as your response to my logical and decisive usurpation of your flawed logic.",False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pjq5j,52vvko,t1_d7pjnuo,False,1474049381,"Cool man keep ""currnely"" working on your double major and rolling your eyes and blah blah blahing like a 10 year old girl. It's also *ensure* and not insure, unless you are insuring these drivers. ",False,0,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7pjsdf,52vvko,t1_d7pjq5j,False,1474049458,"You liberals are not supposed to hurl sexist comments...
+
+>It's also ensure and not insure, unless you are insuring these drivers.
+
+BTW...https://en.oxforddictionaries.com/usage/ensure-or-insure
+
+",False,-1,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pkbx7,52vvko,t1_d7pjsdf,False,1474050126,DAMN! That smarts.,False,1,808d7ada25d1772d,ok,Missouri,2016,missouri
+d7pkdge,52vvko,t1_d7pkbx7,False,1474050178,That's from a fabulous inner-city edumacation.,False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pnwdk,52vvko,t1_d7pjsdf,False,1474054518,">In both British and American English the primary meaning of insure is the commercial sense of providing financial compensation in the event of damage to something (e.g. property); ensure is not used at all in this sense.
+
+blahhhhh blaaahhhhhh blahhhhhhhh. Maybe when you cash all those out you can pay someone to teach you to read. ",False,0,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7poxcs,52vvko,t1_d7pnwdk,False,1474055768,"UH...you might want to read that again...and see that it completely agrees with me...
+
+Let me guess...Inner-city schools....with a liberal arts degree in Dance History...",False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pqonz,52vvko,t1_d7poxcs,False,1474058006,"UHHHHHHHHHHHHHHHHHHHHHH..... yes, the primary meaning of insure is to provide financial compensation. You didn't use it in that sense despite that being the way it's used. *INSUR*ance, stupid. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7pti86,52vvko,t1_d7pqonz,False,1474061845,Read it again...maybe without the crack pipe this time...,False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7ptkzc,52vvko,t1_d7pti86,False,1474061951,"No, already did many times and knew beforehand the distinction. You're wrong and uneducated, which is probably why ""libtard"" is part of your vernacular. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7putqs,52vvko,t1_d7ptkzc,False,1474063742,Holy Shit!  The link even gives examples...Boy...your liberal arts degree is failing you...better go back for a degree in art history....,False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7puv1y,52vvko,t1_d7putqs,False,1474063796,"Thank you! I hope your family all gets cancer, you old half dead losery sack of shit! :D Sadsack fuckin loser. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7pv85g,52vvko,t1_d7puv1y,False,1474064347,">I hope your family all gets insufferable cancer!
+
+My...how progressive liberal of you...",False,0,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d7pw7a6,52vvko,t1_d7pv85g,False,1474065876,"Oh I edited it to call you a half dead losery sack of shit too, and a sadsack loser. So glad people like you are on their way out. I'm sure you're obese as well you fat fuck, people like you usually are. ",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d7qayw3,52vvko,t1_d7nz3wi,False,1474094984,"Yeah, but to go through a non-Constitutional Carry state you have to comply with FOPA. 
+
+Illinois lets out of state foks have a gun concealed on their person in their car in Illinois. If you have a CCW. No Constitutional Carry.  ",False,3,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d83ebk1,52vvko,t3_52vvko,True,1474935239,"Until the NRA shills are feeling the impact, they will keep bowing to the gun industry. It's a shame, Missouri. Things will get worse before better. ಠ_ಠ",False,1,5f77b72b5cee233b,ok,Missouri,2016,missouri
+d841lv6,52vvko,t1_d83ebk1,False,1474982037,Come back in a year and tell me how 'bad' things are because of this legislation.  You won't because you won't admit you're wrong and also because you won't notice much other than a decrease in crime.,False,1,2aa537cd1b9a2a98,ok,Missouri,2016,missouri
+d850heg,52vvko,t1_d841lv6,False,1475030704,Remindme! One year: how did the Missouri wacko gun loose law work out ,False,1,5f77b72b5cee233b,ok,Missouri,2016,missouri
+d850hv0,52vvko,t1_d850heg,False,1475030725,"I will be messaging you on [**2017-09-28 02:45:19 UTC**](http://www.wolframalpha.com/input/?i=2017-09-28 02:45:19 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/missouri/comments/52vvko/missouri_republicans_vote_to_override_veto_of_gun/d850heg)
+
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/missouri/comments/52vvko/missouri_republicans_vote_to_override_veto_of_gun/d850heg]%0A%0ARemindMe!  One year: how did the Missouri wacko gun loose law work out ) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! d850hv0)
+
+_____
+
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+|-|-|-|-|-|-|",False,1,,bot,Missouri,2016,missouri
+d9mgusb,52vvko,t1_d7pw7a6,False,1478316063,"Are you still on here, fucktard?
+",False,1,7e0aeaebe0ec8af7,ok,Missouri,2016,missouri
+d9mhx3v,52vvko,t1_d9mgusb,False,1478317962,"Oh it's you! -7, you must be that other stalker guy. Holy shit. Anyway 'no u'. blizzy blizzock, biatch",False,1,df9bbcd06c0e99f9,ok,Missouri,2016,missouri
+d9nrhyu,52vvko,t1_d9mhx3v,False,1478404290,"Nobody likes you. Nobody. That's why you're banned from so many subs. Why not just leave reddit for good?
+
+Every single conversation you have on reddit -- *every single one* -- is content-free horse shit like this. You pick pointless fights and then you run away when people argue back. You insult people in completely uncalled-for terms and then you throw a pathetic little elementary school tantrum-and-tattle fest when anyone insults you in return. You're mentally ill and [everyone can tell](https://www.reddit.com/r/SubredditDrama/comments/1ldfwj/user_swefpelego_goes_into_an_epic_antimeat_rage/). Get help.
+
+Oh, and [stop hitting your dog](https://www.reddit.com/r/AustralianShepherd/comments/5aw7tb/help_i_cannot_get_my_aussie_to_stop_biting_my/d9kw0e6/?context=3), you sack of shit. ",False,1,8a5b0a2c67331cc4,ok,Missouri,2016,missouri
+d7t67uw,53httf,t3_53httf,True,1474296378,"The DMV will ask you for past property tax receipts.  If you have not owned any vehicles registered in Missouri you will basically just need a receipt from the county saying that you don't have any outstanding taxes due.
+",False,6,b1c37a0f0907522b,ok,Missouri,2016,missouri
+d7t6npr,53httf,t1_d7t67uw,False,1474296968,"Thank you. So you're saying since I was driving a vehicle that wasn't even mine, registered in IL, I won't owe?",False,1,f635225929c2f05c,ok,Missouri,2016,missouri
+d7t9fjg,53httf,t1_d7t6npr,False,1474300512,"I'm not a lawyer, but I've never paid property tax on anything I didn't own.  The only time I've heard of anyone pay taxes on a vehicle they didn't actually own was a lease arrangement.  I assume vehicle owner had paid taxes in the place where it was registered.  You should only have to pay sales tax on your new vehicle.",False,2,b1c37a0f0907522b,ok,Missouri,2016,missouri
+d7tbnnn,53httf,t1_d7t6npr,False,1474303222,"I'd you were not the primary owner on the title, then you should have no linkage of ownership to the vehicle and not owe taxes.
+
+  Now that you live and purchased in Missouri, just go to your county assessor and pay your sales tax, you should be good ",False,2,2584d8ffa22ce049,ok,Missouri,2016,missouri
+d7tce3h,53httf,t1_d7t6npr,False,1474304115,"No. The only way you would owe any back taxes is if you were transferring the vehicle to your name, and the taxes had not been paid on the vehicle. 
+
+For example: My wife's van was in my fathers name when he died. We didn't change the title for two years, but you're supposed to do so within 30 days. Since I had been paying the property taxes they waived the penalty for not registering the vehicle in my name, and I only had to pay the new title fee. However, I talked to the county assessors office before going to the DMV. 
+
+Since you are just now buying a vehicle to be in your name, you should only need a waiver from the county assessor. Honestly, your biggest hurdle will most likely be getting insurance if you've never had it in your own name, but shouldn't be that hard.   
+
+Quick edit: You ***DO*** however, have to pay taxes on the purchase price of the vehicle at the time of registration. ",False,2,0f805e004b1d19c7,ok,Missouri,2016,missouri
+d7tcrbn,53httf,t1_d7tce3h,False,1474304562,"Thanks. I financed the state taxes into the loan, so I'm good there, right?",False,1,f635225929c2f05c,ok,Missouri,2016,missouri
+d7tcrpy,53httf,t1_d7tbnnn,False,1474304576,Appreciate it,False,1,f635225929c2f05c,ok,Missouri,2016,missouri
+d7td3ed,53httf,t1_d7tcrbn,False,1474304976,"Honestly I don't know, as I've never financed a car before. Did you finance through a bank/credit union or a car lot?",False,1,0f805e004b1d19c7,ok,Missouri,2016,missouri
+d7tduha,53httf,t1_d7td3ed,False,1474305892,Financed through the dealer. It added almost $2K to the price so it BETTER be taken care of lol,False,1,f635225929c2f05c,ok,Missouri,2016,missouri
+d7thb9g,53httf,t1_d7tduha,False,1474310151,"It should be then, but I'm surprised they didn't get your plates for you as well. 
+
+> If you're financing a car through a dealership, taxes and fees are almost always included in the payment. That's because the finance amount is usually based on the car's out-the-door price, which includes all taxes, fees and additional extras, such as an extended warranty. That's why adding a dealer option will slightly increase your monthly payment, because it's rolled into the financing. It's also why, in many states, the dealer can get your license plates for you because they've collected the taxes you owe on the vehicle.",False,1,0f805e004b1d19c7,ok,Missouri,2016,missouri
+d7uoysi,53mjik,t3_53mjik,True,1474385828,"It's all good, typical small-medium city America. Middle of the road everything. Now, I am no Clinton resident so I can't speak with authority since I've only passed through tons of times.",False,3,0e6a8f4aca9c7f6b,ok,Missouri,2016,missouri
+d7uvd0x,53mjik,t3_53mjik,True,1474393803,"Honestly, Clinton is a dead end. It's a small town with little opportunity. If I were you I'd move to Columbia, or Springfield, any city with more opportunity. ",False,2,b2b5bb6cff0e41b8,ok,Missouri,2016,missouri
+d7vfjtu,53mjik,t1_d7uvd0x,False,1474420908,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7vfwxx,53mjik,t1_d7vfjtu,False,1474421465,"In *most* small towns like Clinton, it's incredibly unlikely to go anywhere career-wise. Not a lot of business there, the national businesses are there tend to ignore people working there, so even if you became a manager of say, Walgreens, they will likely overlook you regardless of how well you perform because of a bias that tends to be there. So you will unlikely move beyond that. 
+
+If you like small town life, then it's the place for you, if you want something a bit more exciting, either of the two towns I mentioned are good starter towns without jumping into a huge city like St. Louis. 
+",False,1,b2b5bb6cff0e41b8,ok,Missouri,2016,missouri
+d7vgivw,53mjik,t3_53mjik,True,1474422390,"Where are you moving from?  I'm from KC and Clinton is a necessary evil to pass through on our way to the lake house.  The town is small, the people seem to think wearing pajamas out to eat is normal attire.  I wouldn't live there if my room and board were free.  ",False,1,5e016ec8552acd9e,ok,Missouri,2016,missouri
+d7vgmoj,53mjik,t1_d7vgivw,False,1474422548,[deleted],True,1,,deleted,Missouri,2016,missouri
+d7vgx9d,53mjik,t1_d7vgmoj,False,1474422992,"Super, you'd blend right in! Don't forget to order your salad with ranch 😚",False,1,5e016ec8552acd9e,ok,Missouri,2016,missouri
+d7vh554,53mjik,t3_53mjik,True,1474423323,There's a great little cafe on the square there that has/had neat antiques and the best pickles ive ever had. I hope its still there I havent been there in 15 years.,False,1,8043d8a25150e1ba,ok,Missouri,2016,missouri
+d7vhzn7,53mjik,t1_d7vgx9d,False,1474424598,I hate ranch but i guess i better get used to it,False,1,f3eaf4ad6f3a69ec,ok,Missouri,2016,missouri
+d7uwkxu,53ol6s,t3_53ol6s,True,1474395308,"Jesus I hope it's just legalized nation wide soon, this back and forth bull shit is so stupid. ",False,10,2c93c7e2f7ad4ba2,ok,Missouri,2016,missouri
+d7v4t61,53ol6s,t3_53ol6s,True,1474405300,It failed. Over 27 signatures.,False,4,51e73ed8ebde8eda,ok,Missouri,2016,missouri
+d7v6ez3,53ol6s,t3_53ol6s,True,1474407368,[We will not be voting on Medical Marijuana here in Missouri in 2016](http://www.kspr.com/content/news/394119051.html),False,1,e0408b53c02805d4,ok,Missouri,2016,missouri
+d7vdveg,53ol6s,t3_53ol6s,True,1474418351,Tie it in with a gun law. Fucker will pass like a greased pig on a slip and slide. ,False,5,7903afc5925e7f47,ok,Missouri,2016,missouri
+d7vux2a,53ol6s,t3_53ol6s,True,1474457070,"What a load of crap. Shit like this is why I'm beginning to hate living in this state. Do we have to be backward and behind the times on fucking EVERYTHING? 
+
+It's fucking medical marijuana, not even recreational use! It's barely even controversial anymore, but no, let's have the GOB's  rig it up against it anyway, because god forbid we ever progress or move forward or do anything that might help the average citizen. ",False,3,aedb7e90aa3d1da0,ok,Missouri,2016,missouri
+d7vvchl,53ol6s,t1_d7uwkxu,False,1474458188,"Looking at the current presidential candidates, I highly fucking doubt it. What really needs to happen in order to make it work is lobbyists. Somebody who is making millions in Colorado is going to have to hire someone in DC to actively convince Senators and Congressmen to pass a bill legalizing recreational marijuana. Until that happens we're all fucked. ",False,2,e4e6e05e74f0df85,ok,Missouri,2016,missouri
+d7w08gy,53ol6s,t1_d7vvchl,False,1474466971,I would imagine anyone making millions in Colorado would want to keep it that way. Not level the playing field by legalizing it nation wide. ,False,1,92667b7090395983,ok,Missouri,2016,missouri
+d7w0a3u,53ol6s,t1_d7vux2a,False,1474467032,I moved to California. Won't be back until it's legal in MO. ,False,2,92667b7090395983,ok,Missouri,2016,missouri
+d7w39mi,53ol6s,t1_d7w08gy,False,1474470950,After they had built a solid infrastructure for their business why would they not want to expand?,False,3,e4e6e05e74f0df85,ok,Missouri,2016,missouri
+d8doukk,53ol6s,t1_d7w0a3u,False,1475597805,[deleted],True,1,,deleted,Missouri,2016,missouri
+d8jmhs7,53ol6s,t1_d7w0a3u,False,1475959635,You did what I wish I had the ability to ,False,1,db0afa6605463524,ok,Missouri,2016,missouri
+d7xsese,540a63,t3_540a63,True,1474568982,">This sort of aisle-crossing in the normally fiercely partisan topic of gun control
+
+It's unfortunate that background checks before gun purchases to weed out felons is ""crossing the aisle"".  Seriously, this is something the NRA even supported back when it was sane.",False,13,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7xsout,540a63,t3_540a63,True,1474569341,[deleted],True,0,,deleted,Missouri,2016,missouri
+d7xt5l6,540a63,t3_540a63,True,1474569925,Short answer: no.,False,6,81e930e89ea4cbad,ok,Missouri,2016,missouri
+d7xtfac,540a63,t1_d7xsese,False,1474570261,"But background checks occur on all retail gun sales, and the vast majority of high profile mass shooters have legally purchased their own guns, passing said background checks. I haven't seen any compelling evidence that universal background checks would decrease gun crime, but it potentially criminalizes common practices among currently law-abiding gun owners.",False,7,625f683babd0da74,ok,Missouri,2016,missouri
+d7xtsxu,540a63,t1_d7xtfac,False,1474570726,"My point is that a Democrat shouldn't have to make a commercial proving their gun culture bonafides by assembling a gun blindfolded while talking about the need for background checks.
+
+And mass shootings are only a small amount of gun deaths.  More homicides are committed by criminals, during domestic violence incidents, suicides, etc.  Background checks aren't going to stop everyone from committing murder, but you'd think we could all agree that at least felons, domestic abusers, etc should be weeded out.",False,13,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7y1bwm,540a63,t1_d7xtsxu,False,1474580451,Agreed. The sad truth is that it's more difficult and time consuming to buy a car than a gun in this country.,False,6,792867fa1e96c741,ok,Missouri,2016,missouri
+d7y2xzn,540a63,t1_d7y1bwm,False,1474582764,"I was recently at a gun range, and the emphasis on safety is over the top - you can only walk around with your guns cased or unloaded and the action  open, muzzle always pointed up or out into the range, etc.  
+
+There's never any talk of gun safety when the threads on here talk about permit-less (ie: 'constitutional') carry without safety requirement, like Kansas now has. Then, it's perfectly fine for gun owners to walk around with loaded guns pointed in any direction, carried by people that may never have had any instruction. Got a gun in your sock?  No problem...",False,4,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7ybufh,540a63,t1_d7y2xzn,False,1474596049,Parma woods or lake city is my bet on the range.  ,False,1,d62f0b9c7cbc27c8,ok,Missouri,2016,missouri
+d7z1nm1,540a63,t3_540a63,True,1474648842,I just don't understand how anyone can possibly think that being able to assemble a gun while blindfolded has anything to do with their ability to govern - except maybe by force. ,False,4,521469dd88c2a0c8,ok,Missouri,2016,missouri
+d7z3o8n,540a63,t1_d7xsese,False,1474651386,"The problem is that this is not the only measure Kander is supporting here.  Both the video and this article gloss over the fact that Kander is also calling for the use of so-called ""terrorist watch-lists"" to deny individuals the right to purchase or own firearms.  Such watch lists involve no due process.  It is not at all transparent how one gets on one of these lists, or how one gets de-listed if put there in error.  Putting people on lists in order to deny them constitutional rights is clearly against the principles this nation was founded upon.  So clearly Kander's ability to reassemble a rifle blindfolded doesn't make him qualified to comment on issues of constitutional freedoms.
+
+Furthermore we already have background checks.  And with the checks we have the [Fed already fails to prosecute individuals who attempt to buy guns illegally](http://www.politifact.com/new-hampshire/statements/2013/mar/22/kelly-ayotte/most-people-trying-buy-gun-illegally-us-senator-ke/).  And as for the so-called ""gun show loophole"" that Kander and his colleagues like to prattle on about, [it's a myth](http://www.cato.org/publications/commentary/facts-about-gun-shows).  So what the NRA and other progun organizations would like to know is:  What legislation do you propose that would actually address the root causes of gun violence?  Because what you're doing now is just pandering and spreading misinformation.",False,3,f9f24b7e607eefc9,ok,Missouri,2016,missouri
+d7z4xm4,540a63,t1_d7z3o8n,False,1474652967,"Yeah, I've posted about this before.  After reading a lot about the facts and arguments on both sides, I don't think anybody's really contemplating the type of solutions that would significantly reduce gun violence - which is just primarily linked to the amount of guns in the general population.
+
+In order to significantly reduce gun deaths, you'd have to really increase the level of responsibility required to own a gun (everyone's registered, training classes required, maybe insurance required - similar to owning/driving a car), or just make people want to get rid of their guns all together - basically do what Australia's done in banning semi-automatic rifles, requiring registration and training, etc.
+
+Nobody in America's proposing this, not even politicians working with gun control groups, and that's basically why there's no way to move the needle at all on gun deaths. People don't see guns as a consumer product actually requiring safety any longer - guns are now basically another euphemism for liberal or conservative in a stagnant culture war, like abortion.
+",False,1,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7z59vs,540a63,t1_d7z4xm4,False,1474653403,">In order to significantly reduce gun deaths, you'd have to really increase the level of responsibility required to own a gun
+
+What this line of thinking fails to take into account is that criminals and murderers don't care about and won't follow your new rules.  If you want to really tackle this problem some basic root-cause analysis must be done.  Why are criminals killing people?  Is it a result of the Drug War?  Poverty?  Mental Illness?  Probably all 3.  If you want people to stop killing each other you don't focus on the tools, you focus on the people.  But that's much harder and much more difficult to turn into some wedge issue to divide the country.  So there's no strong political play there.",False,2,f9f24b7e607eefc9,ok,Missouri,2016,missouri
+d7z6dlg,540a63,t1_d7z59vs,False,1474654817,"Well, since the bulk of gun deaths are from suicides, and households that have guns are something like 10x+ more likely to have a successful suicide than households that don't, just reducing the households with guns (really significantly) goes a long way toward reducing suicides - especially among kids.  Short of that, you could at least require that people lock up their guns in a way that kids can't access (gun safes, etc).
+
+It's the same thing with domestic violence, households where domestic violence occurs in the presence of handguns are way more likely to produce a gun death than when there's no gun present. To my point, it's more about the amount of guns present that matters, and less about licensing / background checks that anyone's proposing.
+
+But while laws like permit-less conceal carry really have little practical effect in saving or killing that many people, they send a strong message to society that ""because it's your 2nd amendment right!"", there's nothing irresponsible about thinking it's complete common sense to carry a loaded gun around without any training. 
+
+Nobody would contemplate this lack of responsibility with driving - who would argue that everyone should be able to buy a car and drive it around without insuring it or requiring any kind of drivers ed? They'd be laughed at - yet this is how gun rights advocates talk about guns because ""it's my right!!!"" simply trumps common sense - that's why people can't even talk about this issue without it being highly emotional instead of factual.
+",False,1,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7zdy91,540a63,t1_d7z4xm4,False,1474664784,">I don't think anybody's really contemplating the type of solutions that would significantly reduce gun violence
+
+That's actually not true. Mental health treatment and reform in our mental health system will reduce gun violence, and the person leading the fight on that in the Senate is actually none other than Roy Blunt (along with Debbie Stabenow of Michigan). 
+
+http://www.thenationalcouncil.org/topics/excellence-in-mental-health-act/",False,1,81e930e89ea4cbad,ok,Missouri,2016,missouri
+d7zfmf6,540a63,t1_d7zdy91,False,1474667261,"https://www.congress.gov/bill/113th-congress/senate-bill/264
+
+Seems like a good step to just generally promote better mental health, which I'm all for, but I wouldn't expect it to relate that much to gun suicides.
+
+When you look at suicide, there isn't a higher proportion of mental health problems in gun-owning households, but the rate of suicide success is much higher if a gun is presence because obviously shooting yourself is more likely and quickly to kill you than cutting, for instance.
+
+Studies like this one from Harvard (https://www.hsph.harvard.edu/magazine/magazine_article/guns-suicide/) basically paint the picture that suicide is an impulsive acts that can happen to anyone - whether a history of mental problems or not - and particularly kids who do impulsive acts all the time - so I don't think an incremental improvement in mental health facilities for known mental health problem individuals is going to help so much.  To my earlier point, since suicides seem fairly random, you would have to take a significant chunk of guns out of households to really move the needle on ""suicide success"" rate.
+
+(From the Harvard study)
+>Psychiatrists, psychologists and social workers have begun trainings on how to talk with suicidal patients and their families about reducing access to firearms at home. Unfortunately, people contemplating gun suicide are not always in treatment and often don’t display clues in advance–not even to themselves. According to Catherine Barber, director of the Harvard Injury Control Research Center’s Means Matter campaign, “They may think: ‘It’s not my assessment of the world that’s the problem, it’s the world. I’m headed back to jail, my girlfriend’s broken up with me, I’ve got no hope for the future.’” Even when deep despair prompts people to seek help, their clinicians often fail to ask about guns or feel uncomfortable broaching the topic, in part because they lack suicide prevention training. All of which suggests that informal contacts, outside the familiar channels of mental health care, may serve as a stronger safety net. 
+
+I really like the Gun Shop Project described in this article as a way for gun store owners to become participants in identifying people potentially committing suicide - it's interesting that it's suggested that someone be required to get training before buying the gun as a way to allow more time for a mental issue to be discovered or the critical moment of suicide to pass prior to getting the gun.",False,1,32ef526e6bab2995,ok,Missouri,2016,missouri
+d7zhc61,540a63,t1_d7zfmf6,False,1474669935,"Yea... but I was talking about gun violence, not suicides. The EMHA improves cooperation between law enforcement and mental health professionals so that people with mental illness and criminal records are more likely to get treatment, and not just pass through the system like is so common. Those are the people that engage in domestic violence, assaults, deadly assaults, and even mass shootings more than any other type of person. Proper cooperation between law enforcement and mental health/behavioral health professionals and facilities works to reduce that. 
+
+I mean, a background check isn't going to reduce suicide rates either. But starting a conversation about mental health research and changing the way to we approach mental health absolutely can.",False,1,81e930e89ea4cbad,ok,Missouri,2016,missouri
+d7zqbj0,540a63,t1_d7zhc61,False,1474686047,"Again, I agree that improved mental health services are a good thing, but is this really going to reduce the rate of domestic violence homicides?  Like suicides, domestic violence is spontaneous and occurs in the moment - and people die more often if a gun happens happens to be there and available when somebody loses it.",False,2,32ef526e6bab2995,ok,Missouri,2016,missouri
+d8i9zs2,557wni,t3_557wni,True,1475867883,Love how this is not at all about selling more beer. ,False,1,7903afc5925e7f47,ok,Missouri,2016,missouri
+d894lnj,55b5nw,t3_55b5nw,True,1475288402,Or the senate one?,False,4,941ff98cd2cb9d73,ok,Missouri,2016,missouri
+d8airzm,55b5nw,t1_d894lnj,False,1475390171,"[Apparently it is](https://www.c-span.org/video/?416111-1/candidates-face-missouri-senate-debate)
+
+Add: after watching, Focusing on the underdogs, as in won't win, but I was surprised to find that I liked Ryman's personality the best of those also rans, and then closing arguments and the crazy came out, I realized then Oh shit the Consitution Party is Ultra Conservative. 
+
+On the likely winners, I really don't care for Kander or Blunt from a personality perspective. ",False,1,0a8e063e5d9fa846,ok,Missouri,2016,missouri
+d8al2rw,55b5nw,t1_d8airzm,False,1475397587,"Thanks., I feel ya on the personality issue, but an R majority is more important to me personally.",False,1,941ff98cd2cb9d73,ok,Missouri,2016,missouri
+d8hjhq4,566278,t3_566278,True,1475818186,"Great now i just have to decide between a giant douche and a turd sandwich, decisions, decisions...",False,4,dd1a4977df542d52,ok,Missouri,2016,missouri
+d8hw51k,566278,t1_d8hjhq4,False,1475850505,And thinking voting makes a difference. There's that too.,False,3,24f51bc89b2b1025,ok,Missouri,2016,missouri
+d8i1rfb,566278,t3_566278,True,1475857798,"**PROTIP**: Google is a bro and will automatically pull up a form for your particular state, with all the important dates, places and info:
+
+[https://www.google.com/search?q=how+register+to+vote](https://www.google.com/search?q=how+register+to+vote)
+
+[[Screenshot]](http://i.imgur.com/toHxX0B.jpg)
+
+**More Links:**
+
+* [Register online.](http://www.ncsl.org/research/elections-and-campaigns/electronic-or-online-voter-registration.aspx#Table%20of%20states%20w/ovr) (This is available for 31 states plus the District of Columbia).
+
+* If your state does not yet offer online registration, use the national mail in form [here](http://www.eac.gov/assets/1/Documents/Federal%20Voter%20Registration_1209_en8242012.pdf):
+
+* You can also register in person with your [state or local election office](https://www.usa.gov/election-office).
+",False,3,37d335df54226888,ok,Missouri,2016,missouri
+d8lbx4v,566278,t3_566278,True,1476066347,">I recommend going in-person to your local election office
+
+Sound advice. Do that and then verify you show up in the online database within 24-48 hours. If that doesn't happen keep going back until it does. ",False,2,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d92g8ry,58owvd,t3_58owvd,True,1477092941,What's the problem here - the Soros connection?  This is exactly the sort of multi-national market oligopaly of companies you get when you completely de-regulate any industry - which is exactly what the GOP is all about.  LOL.,False,10,32ef526e6bab2995,ok,Missouri,2016,missouri
+d92wlde,58owvd,t3_58owvd,True,1477132916,"CP, But Soros is backing Hillery.
+
+Who is George Soros?
+https://youtu.be/hsT2iBj-VvM",False,1,732b198541cb733b,ok,Missouri,2016,missouri
+d99lnq7,58owvd,t3_58owvd,True,1477543998,[removed],True,2,,deleted,Missouri,2016,missouri
+d976hsd,59bn7g,t3_59bn7g,True,1477412070,WTF is an audible election?,False,8,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d97950y,59bn7g,t1_d976hsd,False,1477415348,"It's an election where Trump lands on his ass with the loudest thud in modern political history - making a sound larger than the collapse of the World Trade Center on 9/11, which was, of course, Hillary's fault.",False,10,32ef526e6bab2995,ok,Missouri,2016,missouri
+d979g09,59bn7g,t1_d976hsd,False,1477415719,"What's an eclectic voting machine, for that matter.",False,1,1d484d8b5d8d349f,ok,Missouri,2016,missouri
+d97haj6,59bn7g,t1_d979g09,False,1477425281,"Maybe the voting machine just wants to be itself, try a few things out and find it's style?",False,7,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d97jh38,59bn7g,t1_d976hsd,False,1477427878,"Maybe audit-able, or perhaps edible?",False,5,6445c81473adc0f1,ok,Missouri,2016,missouri
+d97z6sl,59bn7g,t1_d97950y,False,1477449331,"Democrats complained loudly in 2000 and 2004 about the integrity of the elections. Funny how they only seem to do that when they lose. 
+
+It's the same rickety mess no matter who is predicted to win. You should care no matter what side you're on. Expecting there to be an audit trail that can be checked is not unreasonable. 
+
+OP seems to be a Berner by the way. ",False,1,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d97zfl5,59bn7g,t1_d976hsd,False,1477449675,">WTF is an audible election?
+
+It's not nice to make fun of Bernie Fans with spelling / auto-correct impairments. 
+
+As for an auditable election, see [Black Box Voting](http://blackboxvoting.org/) and then go watch [Hacking Democracy](https://en.wikipedia.org/wiki/Hacking_Democracy).",False,0,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d981fxw,59bn7g,t1_d97z6sl,False,1477452629,"They didn't really have a reason to complain in 2004, but both sides were complaining in 2000 (remember 'hanging chads'?).
+
+I agree that people should care about it, but studies have shown there's very little actual in-person voter fraud / manipulation.  Unless it's the county personnel organizing the fraud, it's highly unlikely that hackers are able to conduct this type of vote machine fraud - with every county in very state executing elections differently.  It's not as if checks in this system don't already exist.
+
+But I agree that the machines themselves are the most vulnerable point, and are the way people would try to manipulate votes.  But the only really significant conspiracy that's been talked about is in Kansas where a statistician produced some analysis suggesting there might have been machine fraud, and the state refused to do an investigation or release the results.  ",False,6,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9awyrf,59bn7g,t1_d981fxw,False,1477622196,">studies have shown there's very little actual in-person voter fraud / manipulation.
+
+Then you'd think it would be difficult to [vote for Eminem](https://www.youtube.com/watch?v=pZMU2oMJNHU) or [impersonate Eric Holder](https://www.youtube.com/watch?v=FPYUIox64ng). but apparently not. 
+
+>But I agree that the machines themselves are the most vulnerable point, and are the way people would try to manipulate votes. But the only really significant conspiracy that's been talked about is in Kansas where a statistician produced some analysis suggesting there might have been machine fraud, and the state refused to do an investigation or release the results. 
+
+In these days of advanced malware such as stuxnet I would argue that the machines are basically impossible to secure. The county election boards don't have the resources to do a proper forensic analysis to vet them.
+
+Ask any experienced developer. Supposedly secure computers can be made to lie and catching them is extraordinarily difficult. 
+
+Just because nobody has been caught doesn't mean nobody is doing it.  This is why it's important to have systems that can be independently checked and randomly audited via physical artifacts (paper bare minimum). 
+
+",False,1,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d9b2a4h,59bn7g,t1_d9awyrf,False,1477631259,"The O'Keefe video impersonating Eminem, they were getting him to fill out an [affidavit of identity.](https://www.michigan.gov/documents/sos/Affidavit_of_Voter_in_Posession_209344_7.pdf)  Which is legal, if you're that person.  That's why he left.  He knew he'd be breaking the law.  Thus he didn't do it.  Thus there was no fraud.  The video basically proves the point that the voter fraud doesn't exist in the quantities to shift an election.  ",False,2,bde18bad1c801e3a,ok,Missouri,2016,missouri
+d9b2wi0,59bn7g,t1_d9b2a4h,False,1477632546,">The video basically proves the point that the voter fraud doesn't exist in the quantities to shift an election.
+
+No, it proves that it *can* happen. One vote can shift an election. [It happened here in Missouri](http://www.nationalreview.com/corner/348544/voter-fraud-changed-outcome-missouri-election-hans-von-spakovsky).
+
+",False,0,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d9b9w49,59bn7g,t1_d9awyrf,False,1477654059,">Just because nobody has been caught doesn't mean nobody is doing it. This is why it's important to have systems that can be independently checked and randomly audited via physical artifacts (paper bare minimum). 
+
+Totally agree.  I was under the impression that this was already happening, but maybe it's not in all places.
+
+To your point, counties definitely don't have the resources to even detect Russian hacking, but it's probably going to take the detection of an actual hack before the resources get devoted to secure the machines.
+
+",False,-1,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9e1f0i,59bn7g,t1_d9b9w49,False,1477843277,">Totally agree. I was under the impression that this was already happening, but maybe it's not in all places.
+
+Nope.  See [Black Box Voting](http://blackboxvoting.org/) and [Hacking Democracy](https://en.wikipedia.org/wiki/Hacking_Democracy).
+
+>To your point, counties definitely don't have the resources to even detect Russian hacking, but it's probably going to take the detection of an actual hack before the resources get devoted to secure the machines.
+
+Without random audits that don't involve the machines themselves an actual hack will never be detected. ",False,1,12332d8686a0f7c6,ok,Missouri,2016,missouri
+d97eami,59cqkd,t3_59cqkd,True,1477421554,This account and source look legit. /s,False,3,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d97eblq,59cqkd,t3_59cqkd,True,1477421586,"and programmed and valided locally, by each county.  if you don't trust your county officials, then the paper ballot is worse because it's far easier for them to screw with those results than the machines.",False,5,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d97hurl,59cqkd,t3_59cqkd,True,1477425941,"It's hilarious how Republicans are running the majority of state and local governments, but somehow this election is going to be the most incompetent / fraudulent election every.
+
+Also ironic is the fact that a huge number of GOP voters now believe this election will be 'stolen' by voter fraud while every GOP state attorney general has been working hard for years to actually disenfranchise Democrat voters to the point where federal courts are now slapping down their efforts.
+",False,3,32ef526e6bab2995,ok,Missouri,2016,missouri
+d97kdww,59cqkd,t3_59cqkd,True,1477428979,">URGENT ALERT FOR TRUMP VOTERS!
+
+So I don't need to worry if I'm not voting for Trump? Whew, dodged a bullet there! 
+
+>Soros does not personally own the Smartmatic machines, but the Chairman of Smartmatic, Mark Malloch-Brown, is on the board of George Soros’ Open Society Foundation.
+
+*That's* the crux of the argument? ",False,3,afa6f1508154df01,ok,Missouri,2016,missouri
+d97pd5u,59cqkd,t3_59cqkd,True,1477435744,"It's Democrats one year claiming voter fraud, then Republicans the next. Actually most of America trusts neither party. The finger pointing is a mix of silliness and absurdity.  ",False,2,abd1997a73a2c367,ok,Missouri,2016,missouri
+d9biqey,59utwr,t3_59utwr,True,1477668646,"I haven't heard of any affects at all yet, it's more of a potential for abuse thing.  the abuse may or may not ever actually happen.",False,5,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9bm00p,59utwr,t3_59utwr,True,1477672643,"Farming has never been under threat.  But I suppose everybody needs a boogey man for political purposes   On the other hand, everytime my neighboring farmer sprays something that kills my trees his first defense he cites is his right to farm",False,19,902c55ca013c6a1d,ok,Missouri,2016,missouri
+d9bp56f,59utwr,t3_59utwr,True,1477676396,"generally, it's there to protect big agribusiness corporations from nuisance lawsuits.  
+
+http://civileats.com/2014/07/17/10-reasons-to-oppose-right-to-farm-amendments/",False,19,14c16199fd0eaaf3,ok,Missouri,2016,missouri
+d9bzde4,59utwr,t3_59utwr,True,1477689013,"[Courts have ruled](http://www.stltoday.com/news/local/crime-and-courts/judge-missouri-right-to-farm-doesn-t-cover-marijuana/article_eba50d05-6bc4-562f-8251-e79ad766e736.html) that it doesn't cover the right to grow marijuana, so what the hell good is it. /s",False,5,a241a046cd4eedab,ok,Missouri,2016,missouri
+d9c4ab7,59utwr,t1_d9bm00p,False,1477696443,He has a right to farm. I doubt that right includes destroying your property.,False,6,42e0e4b5bed1fa25,ok,Missouri,2016,missouri
+d9c4c1v,59utwr,t1_d9bzde4,False,1477696522,It's good for big agra shareholders dividends and the CEO's bonus. Not much else.,False,6,42e0e4b5bed1fa25,ok,Missouri,2016,missouri
+d9c6phq,59utwr,t3_59utwr,True,1477700451,"Anytime you see a ballot item for the ""right to"" do something, specifically something that people have already been doing for a very long time, you need to do some investigation.  These things seem to written very specifically to cause a false moral panic.  
+
+""Of course I want to protect the right to farm!"" says the average voter.  Rights for whom, though, is the devil-in-the-details question.  
+
+In Missouri's case, it seems to be to give large corporate farms the ""right"" to have a lack of accountability.",False,13,5c8b71df4325315f,ok,Missouri,2016,missouri
+d9crmi8,59utwr,t3_59utwr,True,1477752409,"Constitutional attorney here.  Missouri's Right to Farm amendment was very poorly written and, as a consequence, it has thus far been completely useless.  The primary flaw with Missouri's amendment was that it expressly made the right to farm subject to restriction by cities and counties - and a ""right"" that is subject to restriction by a government isn't really a right at all.
+
+I've looked over Oklahoma's proposed amendment and I think that, although it is not perfect, it is significantly stronger than the amendment that Missouri adopted.  First of all, where Missouri's amendment only secured the right to ""farmers and ranchers,"" Oklahoma's proposal secures the right to ""citizens and lawful residents.""  Second, the Oklahoma amendment specifies that only a ""compelling state interest"" will justify a legislative act that would abridge citizens' rights to employ agricultural technology and livestock production - that's pretty strong protection, although it might successfully be argued that this only applies to laws passed by the state legislature and not laws passed by local government bodies.  That concern, however, is mitigated by the fact that the amendment also specifically says that it will not ""modify or affect"" statutes or ordinances ""enacted by the Legislature or any political subdivision prior to December 31, 2014,"" and that very strongly implies that it *will*, by necessity, modify or affect such laws passed *after* December 31, 2014.
+
+As to the comment made by /u/tikaani, remind your neighbor that constitutional rights deal with the relationship between private citizens and their governments, not between one private citizen and another.  If by exercising their constitutional rights one person causes harm to another, the person doing that harm will still almost certainly be liable to the other for any damages caused.",False,5,fd022a6872f9f539,ok,Missouri,2016,missouri
+d9eaffa,59utwr,t3_59utwr,True,1477855463,"Right to farm sounds very Orwellian.  I would assume, just from the name alone that the average person would be getting screwed by this law.
+",False,3,f787740ff6494747,ok,Missouri,2016,missouri
+d9en3xm,59utwr,t1_d9crmi8,False,1477872184,This is helpful.  Thank you for taking the time to post this.  ,False,1,c1d15aa32257d10f,ok,Missouri,2016,missouri
+d9jyvfw,5arp48,t3_5arp48,True,1478182799,I liked the format of the article. ,False,2,6445c81473adc0f1,ok,Missouri,2016,missouri
+d9k8557,5axx8c,t3_5axx8c,True,1478193780,"My county issued non photo voter IDs a couple years ago. Has a lot of information on it so it helps a lot with checking in at the polls. Just show it with valid pic ID and we would be good. I didn't even know they were doing this, just got it in the mail one day. So no excuses for not being able to obtain one for being elderly or minority. Everyone has a mailbox. ",False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9k9she,5axx8c,t1_d9k8557,False,1478195673,"Right, so what's the benefit of passing this amendment then?",False,3,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d9kbcf3,5axx8c,t1_d9k8557,False,1478197466,"It's the ""valid pic ID"" that people have trouble with. All registered voters should get a voter card in the mail before every election, and that can be used as proof of identity currently.",False,6,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9kbwhg,5axx8c,t3_5axx8c,True,1478198095,"Where does the money come from to fund this legislation?  Oh yeah, no one thought of that...",False,1,6445c81473adc0f1,ok,Missouri,2016,missouri
+d9kd3yx,5axx8c,t1_d9k9she,False,1478199460,This isn't required. I show it voluntarily. I feel it should be required.,False,0,05f04de851c35a88,ok,Missouri,2016,missouri
+d9kdbxl,5axx8c,t1_d9kd3yx,False,1478199712,"Right now the card you get in the mail OR a photo ID is required at the polls. Minorities and the elderly can get the card in the mail just fine, and they can use it to vote. It's the photo ID that people sometimes have trouble obtaining. Voting is a fundamental right and requiring a photo ID is a roadblock for some registered voters.",False,2,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9kgc10,5axx8c,t1_d9kdbxl,False,1478203158,"That's why I feel that if required, it should be issued by the state/fed for all fairness in obtaining it. ",False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9kggy7,5axx8c,t1_d9kgc10,False,1478203314,The state does issue photo IDs. I'm confused here.,False,3,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9kk9cq,5axx8c,t1_d9kd3yx,False,1478207815,"> I feel it should be required.
+
+Why? We have very few cases of in-person voter fraud. We'd prohibit more people from voting then we would prevent fraudulent votes from.",False,1,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d9knjy7,5axx8c,t1_d9kggy7,False,1478212103,For a price and oftentimes from a contracted-out for-profit enterprise operating the license bureau. ,False,1,6445c81473adc0f1,ok,Missouri,2016,missouri
+d9kosml,5axx8c,t1_d9knjy7,False,1478213785,"I can't argue with that. But I think the main obstacle keeping people from getting a photo ID is not having the proper documents available to them (birth certificate, social security card, etc.)",False,6,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9kr5al,5axx8c,t1_d9kk9cq,False,1478217001,"""very few cases"" is speculation, at best.  But, no matter, voter fraud can be curbed with voter ID laws.  Only those who want to somehow hide their real ID are concerned about this passing.",False,0,abd1997a73a2c367,ok,Missouri,2016,missouri
+d9krbpw,5axx8c,t3_5axx8c,True,1478217243,"Even if there is a plausible argument (which there isn't) that somehow in 2016 people cannot get a picture ID to go vote, it should be realized that maybe some people don't vote because they don't want to go through the trouble and embarrassment of having no photo ID on their person.  If photo ID's were issued by the state to everyone (either drivers license or ID card) then it may encourage those to show up and vote who would otherwise be embarrassed about not having a photo ID and everyone in line behind them hearing about it.",False,2,abd1997a73a2c367,ok,Missouri,2016,missouri
+d9ku83i,5axx8c,t1_d9kr5al,False,1478221167,"Feel free to provide sources of in-person voter fraud, because I'm having a hard time finding cases in Missouri.
+
+> voter fraud can be curbed with voter ID laws
+
+I've got a rock to sell you, it keeps away tigers. Snark aside, it's a solution looking for a problem.
+
+> Only those who want to somehow hide their real ID are concerned about this passing.
+
+I've literally never heard that as an argument. Those that are concerned about this passing are people who are concerned about the voting rights of those that would be oppressed that cannot meet the requirements for an ID.",False,4,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d9ku8mc,5axx8c,t1_d9kggy7,False,1478221187,Well I didn't get one. For voting purposes? ,False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9ku9v0,5axx8c,t1_d9kk9cq,False,1478221234,None that you know of.,False,3,05f04de851c35a88,ok,Missouri,2016,missouri
+d9kuc5e,5axx8c,t1_d9ku9v0,False,1478221322,"Right, I believe there should be evidence of this being a problem before we enact new laws trying to solve it. Feel free to provide cases of Missouri in-person voter fraud that I'm unaware of.",False,2,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d9kunn2,5axx8c,t1_d9kuc5e,False,1478221753,"Ok, while I'm looking, I need full proof there is none. With all the cases nationwide, I'd be pretty proud of my state if we were clean.
+
+http://www.nationalreview.com/corner/348544/voter-fraud-changed-outcome-missouri-election-hans-von-spakovsky",False,2,05f04de851c35a88,ok,Missouri,2016,missouri
+d9kuq4d,5axx8c,t1_d9kunn2,False,1478221844,How do I prove a negative?,False,6,2af5b25f0fd4600f,ok,Missouri,2016,missouri
+d9kuz4n,5axx8c,t1_d9kuq4d,False,1478222178,"If you cannot prove it, don't ask me to prove the opposite. ",False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9kzeof,5axx8c,t1_d9kbcf3,False,1478228289,"Unless they drop the fee to obtain/update driver's licence or other ID, it's a poll tax.",False,3,fecd4bce80463405,ok,Missouri,2016,missouri
+d9kzide,5axx8c,t1_d9ku83i,False,1478228432,Folks who take the bus often don't have a driver's licence and whatnot.,False,2,fecd4bce80463405,ok,Missouri,2016,missouri
+d9kzj6h,5axx8c,t1_d9ku9v0,False,1478228462,So we need a constitutional amendment based off of speculation?,False,3,fecd4bce80463405,ok,Missouri,2016,missouri
+d9kzktl,5axx8c,t1_d9kunn2,False,1478228526,"If this was as common of an occurrence as you are making out, that lady in Iowa wouldn't have been such a big deal.",False,2,fecd4bce80463405,ok,Missouri,2016,missouri
+d9lckg1,5axx8c,t1_d9kosml,False,1478260388,"Not having proper documentation is absolutely the main obstacle. People will need the birth certificate, marriage records, divorce records, etc. All of those have look up, copy and certification costs. Plus, most of those records are held at the county level. So people need to remember when and where they were married and divorced. I know that sounds like something you couldn't forget but trust me, it's not.",False,3,69541abdfe752f82,ok,Missouri,2016,missouri
+d9lfu76,5axx8c,t1_d9ku8mc,False,1478266542,"No, I mean your driver's license is issued by the state. And you aren't able to obtain a photo ID like a driver's (or nondriver's) license without the documentation mentioned above, and that poses a challenge to some people as others have stated.
+
+>Not having proper documentation is absolutely the main obstacle. People will need the birth certificate, marriage records, divorce records, etc. All of those have look up, copy and certification costs. Plus, most of those records are held at the county level. So people need to remember when and where they were married and divorced. I know that sounds like something you couldn't forget but trust me, it's not.
+
+and
+
+>Unless they drop the fee to obtain/update driver's licence or other ID, it's a poll tax.
+
+",False,3,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9lfxux,5axx8c,t1_d9krbpw,False,1478266695,"> Not having proper documentation is absolutely the main obstacle. People will need the birth certificate, marriage records, divorce records, etc. All of those have look up, copy and certification costs. Plus, most of those records are held at the county level. So people need to remember when and where they were married and divorced. I know that sounds like something you couldn't forget but trust me, it's not.
+
+and
+
+> Unless they drop the fee to obtain/update driver's licence or other ID, it's a poll tax.
+
+I'm quoting other comments in this thread here, and another piece of documentation not mentioned is a social security card. Those are easily lost, along with birth certificates (if the person ever even had one), etc.",False,2,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9lsa02,5axx8c,t1_d9lfu76,False,1478281926,"State issued once you've passed your tests and such. I'm talking state issued for all people that are registered gets theirs in the mail free of charge, no hassle.",False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9m2fs6,5axx8c,t1_d9lsa02,False,1478294035,So you're saying all registered voters should get a free photo ID for voting purposes without having to do the normal proof of identity stuff that is required for a driver's or nondriver's license?,False,2,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9m3vkx,5axx8c,t1_d9m2fs6,False,1478295955,I see this is going nowhere. I want voter ID at the polls. This includes everything involved to make this happen correctly. Even if I didn't mention it in my last post.,False,1,05f04de851c35a88,ok,Missouri,2016,missouri
+d9m5153,5axx8c,t1_d9m3vkx,False,1478297562,It just seems that you don't understand the arguments against it. My last post is me literally summing up what I thought you were trying to promote. Please correct me if I was wrong somewhere.,False,2,c00fd0be994c1506,ok,Missouri,2016,missouri
+d9mfqye,5axx8c,t1_d9kr5al,False,1478314157,"There have been several studies done and they all find voter fraud is so rare, it is insignifigant. You can find this info from many credible sources on the web. 
+Anybody with at least half a brain knows this is a fabricated issue by the right to make it more difficult for minorities and the poor to vote. ",False,4,049a7d07bdedaa28,ok,Missouri,2016,missouri
+d9mfuyn,5axx8c,t3_5axx8c,True,1478314343,"It's a waste of time and money because it will be found to be unconstitutional (see 24th amendment) and will be thrown out by the courts, as it should.",False,3,049a7d07bdedaa28,ok,Missouri,2016,missouri
+d9mg16d,5axx8c,t1_d9mfqye,False,1478314630,"Oh good Lord what bullshit.  It is 2016.  People need an ID.  If they can't get one otherwise, then they need to have one supplied to them for free.  It's better than voter fraud, or even the perception of voter fraud.  Get an ID to vote.  Just like you need an ID to drive, buy booze, check out library books, etc.  I'm sure not having a picture ID could have a desparate impact on the poor in many areas of life.  And the remedy is always get a picture ID, not make exceptions.",False,1,abd1997a73a2c367,ok,Missouri,2016,missouri
+d9mgavr,5axx8c,t1_d9mg16d,False,1478315090,Are you saying the studies are bullshit?,False,2,049a7d07bdedaa28,ok,Missouri,2016,missouri
+d9mgihl,5axx8c,t1_d9mgavr,False,1478315460,"If voter fraud needs to be eliminated and if the best studies you can produce show that voter fraud actually happens, then they are bullshit for your argument.  ",False,1,abd1997a73a2c367,ok,Missouri,2016,missouri
+d9kkaey,5azerq,t3_5azerq,True,1478207852,">This tax would provide $300 million in funding for early childhood education, healthcare and smoking cessation programs. Right now, Missouri can’t even fund the K-12 Foundation Formula, so any extra funding is needed for early childhood education.
+
+this is misleading.  it does create the ""Early Childhood Health and Education Trust Fund"" that is used to issue grants, but the grants can go to any organization that the appointed board, which isn't even mostly educators, decide falls under ""improving the quality of and increasing access to Missouri early childhood education programs"".  it does not go to the underfunded public school systems unless they apply for the grant and compete with private organizations for the money.
+
+I'd vote for this if a) it were not an amendment, and b) the money actually went to public education only and not private organizations.  ",False,20,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9kmtyf,5azerq,t3_5azerq,True,1478211127,"I've heard that this bill also makes it impossible to further research the harmful effects of tobacco. I haven't yet read the bill in it's entirety, but there's a reason the tobacco industry is pouring money into this bill passing.... ",False,7,c480c69285594001,ok,Missouri,2016,missouri
+d9ks7ey,5azerq,t1_d9kmtyf,False,1478218443,"According to the article, some tobacco companies are exempt from paying a higher tax that larger tobacco companies have to pay, because the larger companies entered into a settlement with the state to pay 67 cents in tax per pack they sell in Missouri. So if this passes, the larger tobacco companies will see like a 60 cent tax increase on their products, while the smaller companies who had a price advantage before will have see a total price increase of $1.27 per pack. So the amendment's going to make lower quality cigarettes less attractive to people once they're closer in price to more premium brands. ",False,5,451f1ebe6e3116cb,ok,Missouri,2016,missouri
+d9kzoq9,5azerq,t3_5azerq,True,1478228679,"Taxation is theft.
+
+Edit: Does it make you feel real good to downvote this? Mmm, yeah. That's the way. Just click that down arrow. Maybe you'll feel better about yourself for silencing the crazy person. Oh, but only one problem: taxation *is* theft.",False,-8,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9kzyoc,5azerq,t1_d9kzoq9,False,1478229079,/r/im14andthisisdeep,False,7,dfc6f4da44a5ba16,ok,Missouri,2016,missouri
+d9l005j,5azerq,t1_d9kzyoc,False,1478229139,"Regardless of your age, taxation is theft.
+
+Edit: I thought that was pretty good. Guess not.",False,-9,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9l07uw,5azerq,t1_d9kmtyf,False,1478229457,"No it only prohibits the NEW funds from being used on that.  The reason large tobacco companies are in favor is because it disproportionately impacts smaller tobacco companies, so they benefit from their competitors taking a hit.",False,5,6301b713fc2ade80,ok,Missouri,2016,missouri
+d9l1hkp,5azerq,t1_d9l005j,False,1478231372,"> taxation is theft   
+
+So if we eliminate all taxes because they're theft, we fold up the entire government and call it a day? How else are we supposed to pay for government functions? Roads? Fire departments? Military?  
+
+Honestly curious how you foresee things going without this blatant theft you speak of.
+
+",False,8,521469dd88c2a0c8,ok,Missouri,2016,missouri
+d9l2tm7,5azerq,t1_d9l1hkp,False,1478233508,"We should fold up the government as it exists today. It seems as though many believe the state is some sort of magic entity, but really it's just made up of humans like any other firm. The difference is that it uses force as a mechanism to monopolize. This isn't good because it infringes on the equal rights of individuals and the lack of competition means the results will never best reflect the subjective values and demands of people. We wouldn't want any other firm to behave aggressively towards people; we should demand more of those who provide all services.
+
+Regardless of our system of government, humans will have a need for roads, fire protection, various systems and levels of defense, etc., as you mentioned. It's hard to say exactly how society would overall choose to organize itself in the absence of widely supported states — and it may well work differently in different places as people express their values. People would bind together and distribute/specialize labor. What's certain is that it would benefit all of us to work together peacefully towards solving problems instead of through the barrel of a gun. History and economics tell us that liberalization of markets is a boon to humanity.
+
+I have a lot of faith in people's ability to cooperate. This is why I advocate for a society that values equal rights and non-violence.",False,-4,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9lj3i4,5azerq,t1_d9kzyoc,False,1478271109,"Hey, how about some sort of refutation? No? Just want to make fun instead without even attempting to defend your viewpoint? Your choice I guess.
+
+Doesn't change facts: taxation is theft.",False,1,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9ljq2d,5azerq,t1_d9kkaey,False,1478271908,You shouldn't vote for theft even when the stolen money is used as you desire. It's not your money to decide how to use.,False,3,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9lkd4i,5azerq,t1_d9kzoq9,False,1478272705,except it's not.  taxation without representation is theft.  taxation that you get a vote on is not.,False,5,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9lkqum,5azerq,t1_d9lkd4i,False,1478273166,"No, incorrect. *At best* a majority decides to steal from a minority without their consent. The minority's rights are still infringed on.
+
+Only the individual thinks, reasons, and acts.
+
+Only the individual has rights.
+
+You do not have the right to form a gang and oppress others. It's violent and disgusting.",False,5,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9ll3sg,5azerq,t1_d9lkqum,False,1478273589,"provide one example large scale community, like more than 100K people, where that is the case and it works.  (hint: there isn't one.  anarchy doesn't work on a large scale because people suck.)  ",False,2,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9ll9hx,5azerq,t1_d9ll3sg,False,1478273778,"""People suck so I'm going to be violent and steal from people then.""
+
+Have you considered that maybe it's *you* who sucks?
+
+Maybe society could function peacefully if people like yourself would stop supporting coercion. This is exactly what I'm advocating for.
+
+",False,2,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9llf5p,5azerq,t1_d9l2tm7,False,1478273965,"kid, you need to get out more.  a society that values equal rights and non-violence requires that all members equally value those ideals and equally contribute.  that doesn't happen in the real world, partly because it only takes one asshole to fuck it up, then the rest of the group has to make and impose rules and all the sudden one person is not equal, which breaks the whole illusion revealing the truth:  we are not all equal.",False,2,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9llhak,5azerq,t1_d9ll9hx,False,1478274034,and yet here you are trying to coerce me with threats on my character...,False,2,934de48a9c4b3d52,ok,Missouri,2016,missouri
+d9lls5y,5azerq,t1_d9llhak,False,1478274390,"Hahahaha. What?
+
+There is a very clear distinction between words and physical violence. Words *do not* coerce when not backed up with threats of violence. If you want to draw the line subjectively where you are offended or not offended, it just proves my point that you're an authoritarian. How about we just don't hit or steal from each other instead?
+
+You're also the one exposing your character here. I'm arguing for simple non-violence and you're advocating that we use violence against peaceful people. Might I suggest taking a step back and checking yourself out in the mirror?",False,2,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9lmblq,5azerq,t1_d9llf5p,False,1478275025,"I'm not a kid, but that doesn't really matter does it? No, it doesn't.
+
+I do happen to get out a lot. But again that doesn't matter does it? No, it doesn't.
+
+Yes, certainly we should value non-violence. I'm asking *you* to do that. Will you? Or will you continue to advocate for coercion? Choice is yours, but it's clear which is both morally and pragmatically defensible and which is not.
+
+I recognize that there are assholes in the world. I do not have any issue with defensive force. When equal rights are protected, sometimes force is necessary. The point is that it shouldn't be used aggressively. *This* is the distinction that's important, not whether the force is carried out by a thug or by state-daddy.
+
+You simply don't understand what equal rights mean. I suggest checking out the difference between negative rights and so-called positive ones. Maybe also read ""The Law"" by Bastiat; it's a great introduction to actual rule of law.",False,2,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9lmu0f,5azerq,t3_5azerq,True,1478275624,The police state says: [Yes on Prop 3!](http://i.imgur.com/Jr0Tizy.jpg),False,2,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9mdhug,5azerq,t1_d9llhak,False,1478310415,I'm still laughing at this. Just fantastic.,False,2,b1425a5b480fae3a,ok,Missouri,2016,missouri
+d9prjlu,5azerq,t1_d9kzoq9,False,1478538786,"People who are dependent on the state and it's various apparatus' are not mentally in an open minded state. You don't tell a drug addict that 420 blaze it errryday makes you an ambition-less loser. You don't tell a serial womanizer or slut that monogamy is an exponentially more likely way to actual happiness.
+
+You don't tell a government school fed, government money employed addict that there is a better way. They will only lash out at something their current state of being cannot allow them to comprehend without a severe shaking of their mental state.
+
+Look into the ""fractured amygdala"", it's quite revealing.",False,1,250e7a67047ff2c2,ok,Missouri,2016,missouri
+d9ps1sx,5azerq,t1_d9l1hkp,False,1478539384,"If you are honestly curious, this is an excellent, though basic, introduction.
+
+https://www.youtube.com/watch?v=jTYkdEU_B4o",False,1,250e7a67047ff2c2,ok,Missouri,2016,missouri
+d9pv40r,5azerq,t1_d9kzyoc,False,1478542972,/r/Im15andwhatevenislogic,False,1,250e7a67047ff2c2,ok,Missouri,2016,missouri
+d9lakz1,5b24rf,t3_5b24rf,True,1478254907,Pretty god dam damming...,False,1,dd1a4977df542d52,ok,Missouri,2016,missouri
+d9leprj,5b24rf,t3_5b24rf,True,1478264704,No.,False,1,ff0a2b1961bf6117,ok,Missouri,2016,missouri
+d9lm0x5,5b24rf,t3_5b24rf,True,1478274677,"You're shocked that a US politician wanted to rig an election in a foreign country?  
+
+Are you completely ignorant of the history of the CIA, election manipulation, political assassination, ""regime change""?  Have you heard about the Shah of Iran?",False,4,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9lxgyd,5b24rf,t3_5b24rf,True,1478287975,This account is 10 days old... hello Trump super pac and/or neo-nazis.  Nice work...,False,4,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9lylya,5b24rf,t3_5b24rf,True,1478289312,"Marchx99 account is now 10 days old
+
+127 submissions
+
+2 comments, 0 comment karma
+
+Only active on weekdays during work hours.
+
+100% of postings are anti-Hillary or Pro-Trump.  Posting mostly in location subs or small political subs.
+
+IMHO, this account looks like a paid political social media operative for the Trump campaign.
+
+Statistical information from:
+[Marchx99 on SnoopSnoo](http://snoopsnoo.com/u/marchx99)",False,2,2887571b970686ea,ok,Missouri,2016,missouri
+d9meeoa,5b24rf,t1_d9lxgyd,False,1478311889,"Its still true though and this is why we have to fear him winning, the DNC knew these emails were going to get released, they knew she was such a shit fucking candidate and choose to go with her anyways because they thought having 90% of the US media under their thumb could control the situation.
+
+I'm starting to think they were wrong...",False,1,dd1a4977df542d52,ok,Missouri,2016,missouri
+d9mgr1h,5b24rf,t1_d9meeoa,False,1478315878,"I've been thinking they were wrong the whole election.  It was always the biggest risk for the Dems to nominate Clinton.  She's been thumbing her nose at everyone, the media included, forever.  It's only that Trump is worse than Hillary that the media's turned on him - if the GOP had nominated any rational-sounding candidate (maybe not Ted Cruz) - it would be a Reagan level landslide for them this year.
+
+And liberals are talking about it like this is a GOP meltdown because of Trump.  They're still in control of 3/5 of state legislatures, the house and senate right now.  If the GOP wins the presidency, they'll probably also retain the Senate, will get SCOTUS choices - it's complete game over for Dems.  ",False,2,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9mpi62,5b24rf,t1_d9mgr1h,False,1478339639,"Yeah it has been pretty obvious that she was the worst possible candidate since the beginning a year or so ago, i never doubted that, i just thought he had alienated to many people to have a chance to be elected, the consequences will be pretty dire...",False,1,dd1a4977df542d52,ok,Missouri,2016,missouri
+d9lmasv,5b3qrw,t3_5b3qrw,True,1478274998,"It's gotta be a tough business trying to oust one lower court judge that nobody's ever heard of.  No idea whether this guy is good or not, but seems like most people just vote to retain judges unless they know, specifically, why not on a single person.",False,1,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9ln6d1,5b3qrw,t3_5b3qrw,True,1478276031,"It's difficult to find any real news on them. I tried to do a cursory search on each judge, but most of the have nothing out there. I think I only found a bunch of negative stuff on one judge.",False,4,1d484d8b5d8d349f,ok,Missouri,2016,missouri
+d9loqf4,5b3qrw,t1_d9ln6d1,False,1478277838,">This year, the Bar rated 49 judges statewide.  Forty-four received 100 percent approval from the 21-member panel.  Three judges got 95 percent and one got 81.  Judge Hood got 5 percent.   Anything lower than 50 percent is deemed unworthy of retention. The internals of the poll (right) paint this picture of Judge Hood: He’s unfair, unpleasant and incompetent.  
+
+There is not really much information for the ones doing a good job, but when I saw this guy had such a terrible rating; I also found there was a website dedicated to how bad he is at his job. Also found articles from 2008 showing that he was just as bad then. ",False,6,757cc74c944132d3,ok,Missouri,2016,missouri
+d9lowzh,5b3qrw,t1_d9lmasv,False,1478278048,"I get it that most people don't care, but the people that have had this judge probably care. I think judges should be held to the highest standard, and it's crazy that someone failing so terribly continues to hold his position because people are unaware. ",False,3,757cc74c944132d3,ok,Missouri,2016,missouri
+d9lq3ig,5b3qrw,t1_d9lowzh,False,1478279414,"I think the problem is that when you hear about some ""terrible judge"", you automatically assume that it's a result of the judge having some political views contrary to the person criticizing them - *not* that the judge is just incompetent at judging court cases.
+
+And right or wrong, whenever I hear about ""legal groups evaluating judges"", I just assume it's some kind of political / lobbying group and not an actual independent professional organization doing a non-partisan evaluation.
+
+Judges are the least understood aspect of our political system - and looking at my ballot last weekend, more than half the votes were for retaining judges I'd never heard of and couldn't really do any research on.  My proxy of ""did Brownback appoint them?"" may not even be a good standard if the judges are themselves non-partisan or selected by a group of non-partisan people just looking for good legal interpreters.",False,4,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9lrwqp,5b3qrw,t1_d9lq3ig,False,1478281494,"> My proxy of ""did Brownback appoint them?"" may not even be a good standard if the judges are themselves non-partisan or selected by a group of non-partisan people just looking for good legal interpreters.
+
+Lawyer here, you're right, the appointing governor really means nothing. The gov. picks one from three for positions and has no function  in the process until that point.",False,1,8d794c92e3f2b3ad,ok,Missouri,2016,missouri
+d9lsfqk,5b3qrw,t1_d9lq3ig,False,1478282113,"> And right or wrong, whenever I hear about ""legal groups evaluating judges"", I just assume it's some kind of political / lobbying group and not an actual independent professional organization doing a non-partisan evaluation.
+
+Only somewhat related, but there was an interesting This American Life podcast that I was reminded of about - Judicial Qualifications Committee is probably what you're talking about. Start around 21 minutes: https://www.thisamericanlife.org/radio-archives/episode/599/seriously",False,2,1d484d8b5d8d349f,ok,Missouri,2016,missouri
+d9lt06g,5b3qrw,t1_d9lrwqp,False,1478282791,[removed],True,1,,deleted,Missouri,2016,missouri
+d9lv9uh,5b3qrw,t1_d9lsfqk,False,1478285429,"That was interesting.  The court system itself isn't at all transparent.  A while back, I was searching for court records on a particular person, and of the cases listed, you could find out very little about what happened or what the case was about.
+
+In this age, there's no reason public trial information, transcripts, filings, etc shouldn't be easily available and free online.
+",False,2,32ef526e6bab2995,ok,Missouri,2016,missouri
+d9mpfgk,5b97xn,t3_5b97xn,True,1478339337,"I have always wondered why our state was so fucked up, Thanks to that article i think i know why...",False,5,dd1a4977df542d52,ok,Missouri,2016,missouri
+d9n73ry,5b97xn,t1_d9mpfgk,False,1478373994,"You now know one of the many, many reasons Missouri is fucked up. ",False,3,aee7bad3c1447704,ok,Missouri,2016,missouri

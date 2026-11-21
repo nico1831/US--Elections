@@ -1,0 +1,9 @@
+id,post_id,parent_id,top_level,created_utc,body,removed,score,user_hash,author_status,state,year,subreddit
+c6k3fce,117oly,t3_117oly,True,1349822621,"Sucks, I've been trying to register to vote for a month now...",False,1,20cf0f99d05f7997,ok,Utah,2012,Utah
+c6k498j,117oly,t3_117oly,True,1349825932,Today is the last day to register by mail. You can still register online or in-person until October 22nd.,False,5,c6bd10b4ebb63f87,ok,Utah,2012,Utah
+c6k4rtn,117oly,t1_c6k498j,False,1349827967,Thanks for the correction.  I just saw it briefly on the news this morning and should have payed more attention.,False,1,b4cf6af9479eb253,ok,Utah,2012,Utah
+c6k62la,117oly,t3_117oly,True,1349833230,Thanks for the reminder! I just completed the online. It's super fast.,False,1,70a0b01548b629c1,ok,Utah,2012,Utah
+c6k6f17,117oly,t3_117oly,True,1349834587,[deleted],True,1,,deleted,Utah,2012,Utah
+c6knsh0,119me0,t3_119me0,True,1349916020,"[California Rep. Dana Rohrabacher, a Republican, asked Lamb, deputy assistant secretary of state, if cost had been a factor in the decision not to increase security forces. She said it was not.](http://www.buzzfeed.com/rebeccaberg/state-department-stays-vague-on-beghazi-causes)
+
+[The Benghazi Timeline](http://foxnewsinsider.com/2012/10/10/timeline-what-did-the-obama-administration-know-about-the-libya-consulate-attack-and-when-did-they-know-it/)",False,1,,deleted,Utah,2012,Utah
